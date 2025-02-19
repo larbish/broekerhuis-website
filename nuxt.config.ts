@@ -2,7 +2,8 @@
 export default defineNuxtConfig({
   compatibilityDate: "2024-11-01",
   devtools: { enabled: true },
-  modules: ["@nuxt/eslint", "@nuxt/content"],
+  modules: ["@nuxt/eslint", "@nuxt/content", "@nuxt/image"],
+  css: ["~/assets/css/main.css"],
   postcss: {
     plugins: {
       "postcss-nested": {},
