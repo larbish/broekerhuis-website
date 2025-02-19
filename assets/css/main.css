@@ -1,8 +1,35 @@
-body, html { 
-  margin: 0;
-  padding: 0;
+:root { 
+  --color-primary: #2D362F;
+  --color-background: #E5E9E9;
+  --color-body: color-mix(in srgb, var(--color-primary) 80%, var(--color-background));
+  
+  --base-font-family: Inter, serif;
+  
+  font-family: var(--base-font-family);
+  letter-spacing: -0.02rem;
+  
+  color: var(--color-body, rgba(45, 54, 47, 0.8));
+  background-color: var(--color-background);
+  
+  font-synthesis: none;
+  font-optical-sizing: auto;
+  font-feature-settings: 'dlig' on;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Noto Serif", serif;  
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+  color: var(--color-primary);
 }

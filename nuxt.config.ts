@@ -2,7 +2,25 @@
 export default defineNuxtConfig({
   compatibilityDate: "2024-11-01",
   devtools: { enabled: true },
-  modules: ["@nuxt/eslint", "@nuxt/content", "@nuxt/image"],
+  modules: [
+    "@nuxt/eslint",
+    "@nuxt/content",
+    "@nuxt/image",
+
+    [
+      "@nuxtjs/google-fonts",
+      {
+        families: {
+          "Noto+Serif": {
+            wght: "350..600",
+          },
+          Inter: {
+            wght: "400..700",
+          },
+        },
+      },
+    ],
+  ],
   css: ["~/assets/css/main.css"],
   postcss: {
     plugins: {
