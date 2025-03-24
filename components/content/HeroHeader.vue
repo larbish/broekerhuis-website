@@ -7,7 +7,7 @@ defineProps<{
 <template>
   <header class="header">
     <div class="header__wordmark">
-      <NuxtImg src="/images/het-broeker-huis-wordmark.svg" class="header__wordmark-image" />
+      <SvgoHetBroekerHuisWordmark :font-controlled="false" class="header__wordmark-svg logo__wordmark" />
     </div>
 
     <div class="header__background">
@@ -29,14 +29,10 @@ defineProps<{
 
   &__wordmark {
     position: relative;
-    z-index: 1;
-    display: block;
+    z-index: 2;
     grid-column: 9 / span 9;
     align-self: center;
-
-    &-image {
-      width: 100%;
-    }
+    color: var(--color-white, #fff);
   }
 
   &__background {
