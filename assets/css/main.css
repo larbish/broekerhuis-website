@@ -1,5 +1,5 @@
 :root {
-  --color-primary: #2d362f;
+  --color-primary: #2E322D;
   --color-secondary: #b9b59f;
   --color-background: #e5e9e9;
 
@@ -13,6 +13,8 @@
 
   font-family: var(--base-font-family);
   letter-spacing: -0.02rem;
+  line-height: 1.5;
+  font-weight: 350;
 
   color: var(--color-body, rgba(45, 54, 47, 0.8));
   background-color: var(--color-background);
@@ -40,5 +42,24 @@ h6 {
   font-family: "Noto Serif", serif;
   font-style: normal;
   font-variation-settings: "wdth" 100;
+  font-weight: 350;
   color: var(--color-primary);
+}
+
+h1 {
+  font-size: 2rem;
+  
+  @media (width > 768px) {
+    font-size: 3rem;
+  }
+}
+
+.section {
+  &--padding-full-width {
+    grid-column: 2 / -2;
+  }
+
+  &--full-width {
+    grid-column: 1 / -1;
+  }
 }

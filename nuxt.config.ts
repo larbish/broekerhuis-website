@@ -6,7 +6,6 @@ export default defineNuxtConfig({
     "@nuxt/eslint",
     "@nuxt/content",
     "@nuxt/image",
-
     [
       "@nuxtjs/google-fonts",
       {
@@ -20,6 +19,7 @@ export default defineNuxtConfig({
         },
       },
     ],
+    "nuxt-svgo",
   ],
   css: ["~/assets/css/main.css"],
   postcss: {

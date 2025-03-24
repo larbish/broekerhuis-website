@@ -17,9 +17,10 @@ useSeoMeta({
 </template>
 
 <style>
-.content {
-  grid-column: 9 / span 9;
-  margin-top: 10.5rem;
-  text-align: center;
+.content,
+.content>div {
+  display: grid;
+  grid-template-columns: subgrid;
+  grid-column: 1 / -1;
 }
 </style>
