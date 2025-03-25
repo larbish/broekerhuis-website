@@ -20,6 +20,7 @@ export default defineNuxtConfig({
       },
     ],
     "nuxt-svgo",
+    "@nuxthq/studio",
   ],
   css: ["~/assets/css/main.css"],
   postcss: {
