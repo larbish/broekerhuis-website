@@ -15,10 +15,14 @@ defineProps<{
   &__image {
     display: block;
     width: 100%;
-    height: auto;
-    aspect-ratio: 16 / 9;
+    height: 80svh;
     object-fit: cover;
     object-position: center;
+
+    @media (width > 768px) {
+      height: auto;
+      aspect-ratio: 16 / 9;
+    }
   }
 }
 </style>

@@ -58,9 +58,9 @@ h1 {
 .logo {
   &__wordmark {
     aspect-ratio: 448 / 275;
-      display: block;
-      width: 100%;
-      height: auto;
+    display: block;
+    width: 100%;
+    height: auto;
   }
 }
 

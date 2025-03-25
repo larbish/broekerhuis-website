@@ -53,9 +53,14 @@
 
 .footer {
   display: grid;
-  grid-column: 5 / -5;
+  grid-column: 2 / -2;
   grid-template-columns: subgrid;
-  margin: 168px 0 90px;
+  margin: 96px 0;
+
+  @media (width > 768px) {
+    margin: 168px 0 90px;
+    grid-column: 5 / -5;
+  }
 
   &__top {
     grid-column: 1 / -1;
@@ -68,17 +73,26 @@
   }
 
   &__logo {
+    display: none;
     flex: 0 0 calc(100vw / 26 * 4);
     grid-column: 1 / span 4;
     color: var(--color-primary, #2E322D);
+
+    @media (width > 768px) {
+      display: block;
+    }
   }
 
   &__contact {
     grid-column: span 6 / -1;
     display: flex;
     flex-flow: column nowrap;
-    align-items: flex-end;
+    align-items: flex-start;
     justify-content: center;
+
+    @media (width > 768px) {
+      align-items: flex-end;
+    }
   }
 
   &__link {

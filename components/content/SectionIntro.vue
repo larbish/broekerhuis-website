@@ -25,6 +25,7 @@ defineProps<{
 .intro {
   display: grid;
   grid-template-columns: subgrid;
+  grid-column: 2 / -2;
   text-align: center;
   gap: 1.5rem;
 
@@ -38,9 +39,14 @@ defineProps<{
 
   &__section {
     display: grid;
-    padding: 120px 0 56px;
+    padding: 96px 0;
     grid-column: 1 / -1;
     grid-template-columns: subgrid;
+
+    @media (width > 768px) {
+      padding: 120px 0 56px;
+
+    }
   }
 
   &__body,

@@ -21,27 +21,43 @@ defineProps<{
 .header {
   position: relative;
   display: grid;
+  height: 80svh;
   grid-template-columns: subgrid;
   grid-template-rows: 100%;
   padding: 1rem 0;
-  background: #2e322d;
-  aspect-ratio: 9 / 5;
+  background: var(--color-primary, #000);
+
+  @media (width > 768px) {
+    height: auto;
+    aspect-ratio: 9 / 5;
+  }
 
   &__wordmark {
     position: relative;
     z-index: 2;
-    grid-column: 9 / span 9;
+    grid-column: 4 / -4;
     align-self: center;
     color: var(--color-white, #fff);
+
+    @media (width > 768px) {
+      grid-column: 9 / span 9;
+    }
   }
 
   &__background {
     position: absolute;
-    top: 0;
-    right: 0;
     z-index: 0;
-    width: 50vw;
-    height: 100%;
+    width: 100%;
+    height: 50%;
+    bottom: 0;
+    left: 0;
+
+    @media (width > 768px) {
+      top: 0;
+      right: 0;
+      width: 50vw;
+      height: 100%;
+    }
 
     &::before {
       position: absolute;
