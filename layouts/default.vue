@@ -15,6 +15,45 @@
           <a href="tel:+31204031314" class="footer__link footer__link--large" target="_blank"
             rel="noopener noreferrer">020-4031314</a>
           <SvgoInstagram class="footer__icon footer__icon--instagram" />
+
+          <div class="footer__opening-hours">
+            <ProseP><strong>Wo - Zo van 10:00 - 00:00 uur</strong><br />
+              Maandag & dinsdag gesloten voor lunch en diner - maar altijd bereikbaar voor je wildste plannen.</ProseP>
+
+            <ProseP>Plan direct een afspraak met Jeppe of Thomas.</ProseP>
+          </div>
+        </div>
+      </div>
+      <div class="footer__bottom">
+        <div class="footer__column footer__column--wide">
+          <ProseP>Het Broeker Huis is sinds 1775 het hart van Broek in Waterland. Vandaag zijn we dorpshuis, restaurant,
+            trouwlocatie, vergaderplek en B&B - op 15 minuten van Amsterdam. Een monumentaal pand in het mooiste dorp
+            van Nederland. Kom eten, vieren, werken en slapen. We zijn alleen voor iedereen.
+          </ProseP>
+        </div>
+
+        <div class="footer__column">
+          <h4 class="footer__title">Locatie & contact</h4>
+          <ProseP>Het Broeker Huis <br />
+            Leeteinde 16 <br />
+            1151 AL Broek in Waterland <br />
+            <a href="tel:+31204031314" target="_blank" rel="noopener noreferrer">020 403 1314</a><br />
+            <br />
+            [Whatsapp]<br />
+            <a href="mailto:info@broekerhuis.nl">info@broekerhuis.nl</a>
+          </ProseP>
+        </div>
+
+        <div class="footer__column">
+          <h4 class="footer__title">Snel naar</h4>
+          <ul>
+            <li>Restaurant in Broek in Waterland </li>
+            <li>Feestlocatie & trouwlocatie </li>
+            <li>Vergaderlocatie & workshops </li>
+            <li>Hotelkamers & overnachten </li>
+            <li>Broek in Waterland </li>
+            <li>Over Het Broeker Huis </li>
+          </ul>
         </div>
       </div>
     </footer>
@@ -69,6 +108,7 @@
     justify-content: space-between;
     align-items: flex-start;
     padding-bottom: 3rem;
+    margin-bottom: 3rem;
     border-bottom: 1px solid var(--color-primary, #2E322D);
   }
 
@@ -86,6 +126,7 @@
   &__contact {
     grid-column: span 6 / -1;
     display: flex;
+    gap: 0.25rem;
     flex-flow: column nowrap;
     align-items: flex-start;
     justify-content: center;
@@ -96,6 +137,7 @@
   }
 
   &__link {
+    font-family: var(--base-font-family);
     color: var(--color-primary, #2E322D);
     text-decoration: none;
 
@@ -114,8 +156,45 @@
     aspect-ratio: 1;
 
     &--instagram {
+      width: 20px;
+      height: 20px;
       fill: var(--color-primary, #2E322D);
     }
+  }
+
+  &__opening-hours {
+    text-align: right;
+    max-width: 360px;
+    margin-top: 1rem;
+
+    p {
+      margin-bottom: 1rem;
+    }
+  }
+
+  &__bottom {
+    display: grid;
+    grid-column: 1 / -1;
+    grid-template-columns: subgrid;
+  }
+
+  &__column {
+    grid-column: span 6;
+
+
+    &:nth-child(2) {
+      grid-column: 8 / span 5;
+    }
+
+    &:nth-child(3) {
+      grid-column: 14 / span 5;
+    }
+  }
+
+  &__title {
+    font-weight: 600;
+    font-size: 0.875rem;
+    margin-bottom: 1rem;
   }
 }
 </style>

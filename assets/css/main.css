@@ -73,3 +73,9 @@ h1 {
     grid-column: 1 / -1;
   }
 }
+
+p {
+  a { 
+    color: var(--color-primary,#2E322D);
+  }
+}

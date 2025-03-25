@@ -54,6 +54,7 @@ defineProps<{
 
     @media (width > 768px) {
       top: 0;
+      left: auto;
       right: 0;
       width: 50vw;
       height: 100%;
