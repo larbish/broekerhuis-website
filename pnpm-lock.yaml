@@ -7,9 +7,6 @@ dependencies:
   '@nuxt/image':
     specifier: 1.9.0
     version: 1.9.0
-  '@nuxthq/studio':
-    specifier: 2.2.1
-    version: 2.2.1
   '@nuxtjs/google-fonts':
     specifier: 3.2.0
     version: 3.2.0
@@ -1399,25 +1396,6 @@ packages:
       - vti
       - vue-tsc
       - yaml
-    dev: false
-
-  /@nuxthq/studio@2.2.1:
-    resolution: {integrity: sha512-FiKaC2NBnoKbV5opW8+bXt75R9b7XQ/xtr2bCSLRUca2H7lYypfUAdpYltJasKMgJsUWMNHME92iW5Fi9gb+IA==}
-    dependencies:
-      '@nuxt/kit': 3.16.1(magicast@0.3.5)
-      defu: 6.1.4
-      git-url-parse: 15.0.0
-      nuxt-component-meta: 0.9.0
-      parse-git-config: 3.0.0
-      pkg-types: 1.3.1
-      socket.io-client: 4.8.1
-      ufo: 1.5.4
-      untyped: 1.5.2
-    transitivePeerDependencies:
-      - bufferutil
-      - magicast
-      - supports-color
-      - utf-8-validate
     dev: false
 
   /@nuxtjs/google-fonts@3.2.0:
@@ -4890,24 +4868,11 @@ packages:
     engines: {node: '>=4'}
     dev: false
 
-  /git-up@7.0.0:
-    resolution: {integrity: sha512-ONdIrbBCFusq1Oy0sC71F5azx8bVkvtZtMJAsv+a6lz5YAmbNnLD6HAB4gptHZVLPR8S2/kVN6Gab7lryq5+lQ==}
-    dependencies:
-      is-ssh: 1.4.1
-      parse-url: 8.1.0
-    dev: false
-
   /git-up@8.0.1:
     resolution: {integrity: sha512-2XFu1uNZMSjkyetaF+8rqn6P0XqpMq/C+2ycjI6YwrIKcszZ5/WR4UubxjN0lILOKqLkLaHDaCr2B6fP1cke6g==}
     dependencies:
       is-ssh: 1.4.1
       parse-url: 9.2.0
-    dev: false
-
-  /git-url-parse@15.0.0:
-    resolution: {integrity: sha512-5reeBufLi+i4QD3ZFftcJs9jC26aULFLBU23FeKM/b1rI0K6ofIeAblmDVO7Ht22zTDE9+CkJ3ZVb0CgJmz3UQ==}
-    dependencies:
-      git-up: 7.0.0
     dev: false
 
   /git-url-parse@16.0.1:
@@ -7184,21 +7149,6 @@ packages:
       - magicast
     dev: false
 
-  /nuxt-component-meta@0.9.0:
-    resolution: {integrity: sha512-Zmuw/PxAeJkIu7EPZEFg0lIwnfpeiDsHog9i1g5d4Z3O5+00R1Vbuk+NC6K7kgpdLsdU2/XBvzc7oQ6BsXuQPg==}
-    hasBin: true
-    dependencies:
-      '@nuxt/kit': 3.16.1(magicast@0.3.5)
-      citty: 0.1.6
-      mlly: 1.7.4
-      scule: 1.3.0
-      typescript: 5.7.3
-      ufo: 1.5.4
-      vue-component-meta: 2.2.2(typescript@5.7.3)
-    transitivePeerDependencies:
-      - magicast
-    dev: false
-
   /nuxt-svgo@4.0.16(vue@3.5.13):
     resolution: {integrity: sha512-RxH/UNjM9glOOUrDrA2isNK5E1JadAdYlvJErsrAuUoPrHIck9IXZNW2a76q09nvflfr2dEQ43QM174Nyg6EhQ==}
     peerDependencies:
@@ -7639,12 +7589,6 @@ packages:
     resolution: {integrity: sha512-6ReLMptznuuOEzLoGEa+I1oWRSj2Zna5jLWC+l6zlfAI4dbbSaIES29ThzuPkbhNahT65dWzfoZEO6cfJw2Ksg==}
     dependencies:
       protocols: 2.0.2
-    dev: false
-
-  /parse-url@8.1.0:
-    resolution: {integrity: sha512-xDvOoLU5XRrcOZvnI6b8zA6n9O9ejNk/GExuz1yBuWUGn9KA97GI6HTs6u02wKara1CeVmZhH+0TZFdWScR89w==}
-    dependencies:
-      parse-path: 7.0.1
     dev: false
 
   /parse-url@9.2.0:

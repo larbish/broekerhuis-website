@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const { data: home } = await useAsyncData(() =>
-  queryCollection("content").path("/").first(),
+  queryCollection("content").path("/pages").first()
 );
 
 useSeoMeta({
