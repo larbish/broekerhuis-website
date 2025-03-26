@@ -22,6 +22,8 @@ const { arrow = true } = defineProps<{
   padding: 0.75rem 1rem;
   border-radius: 10rem;
   transition: 200ms;
+  text-decoration: none;
+  ;
 
   @media (hover: hover) {
     &:hover {
