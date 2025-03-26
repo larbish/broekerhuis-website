@@ -1,7 +1,9 @@
 <template>
   <div class="layout">
     <nav class="top-nav">
-      <SvgoHetBroekerHuisLogo :font-controlled="false" class="top-nav__logo" />
+      <nuxt-link to="/">
+        <SvgoHetBroekerHuisLogo :font-controlled="false" class="top-nav__logo" />
+      </nuxt-link>
     </nav>
     <main class="main">
       <slot />
@@ -75,10 +77,10 @@
 
 .top-nav {
   position: fixed;
+  z-index: 10;
   top: 24px;
   left: 0;
   right: 0;
-  z-index: 1;
   display: grid;
   grid-column: 1 / -1;
 

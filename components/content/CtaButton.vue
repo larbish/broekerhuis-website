@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const { arrow = true } = defineProps<{
+const { arrow = false } = defineProps<{
   arrow?: boolean
 }>();
 </script>
@@ -27,7 +27,7 @@ const { arrow = true } = defineProps<{
 
   @media (hover: hover) {
     &:hover {
-      gap: 1rem;
+      gap: 1.25rem;
       background-color: var(--color-primary-dark, #2E322D);
     }
   }
