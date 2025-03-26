@@ -1,5 +1,11 @@
 {
   "eslint.useFlatConfig": true,
   "stylelint.configFile": ".stylelintrc.json",
-  "stylelint.ignoreDisables": true
+  "stylelint.ignoreDisables": true,
+  "[mdc]": {
+    "editor.formatOnSave": false
+  },
+  "[markdown]": {
+    "editor.formatOnSave": false
+  }
 }

@@ -4,7 +4,7 @@ description: Vlakbij Amsterdam, midden in het groen - waar eten verbindt, stilte
   spreekt en vieren vanzelf gaat.
 ---
 
-::hero-header{image="/images/IMG_5047.jpeg"}
+::home-header{image="/images/IMG_5047.jpeg"}
 ::
 
 ::section-intro

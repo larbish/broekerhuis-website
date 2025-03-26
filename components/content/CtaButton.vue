@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const { arrow = true } = defineProps<{
-  arrow: boolean
+  arrow?: boolean
 }>();
 </script>
 
