@@ -1,13 +1,19 @@
 <script lang="ts" setup>
-defineProps<{
-  title: string
+const { titleComponent = 'h1', subtitleComponent = 'h2' } = defineProps<{
+  title: string,
+  subtitle?: string,
+  titleComponent?: string,
+  subtitleComponent?: string,
 }>()
 </script>
 
 <template>
   <section class="section section--padding-full-width intro__section">
     <div class="intro">
-      <h1 class="intro__title">{{ title }}</h1>
+      <div class="intro__head">
+        <component :is="titleComponent" class="intro__title title__main">{{ title }}</component>
+        <component :is="subtitleComponent" v-if="subtitle" class="intro__subtitle title__sub">{{ subtitle }}</component>
+      </div>
       <div class="intro__body">
         <slot />
       </div>
@@ -33,7 +39,9 @@ defineProps<{
     grid-column: 8 / span 12;
   }
 
-  &__title {
+  &__title,
+  &__subtitle,
+  &__head {
     grid-column: 1 / -1;
   }
 

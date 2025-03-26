@@ -4,6 +4,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: [
     "@nuxt/eslint",
+    "@nuxtjs/seo",
     "@nuxt/content",
     "@nuxt/image",
     [
@@ -26,5 +27,9 @@ export default defineNuxtConfig({
     plugins: {
       "postcss-nested": {},
     },
+  },
+  site: {
+    url: "https://www.broekerhuis.nl/",
+    name: "Het Broeker Huis",
   },
 });

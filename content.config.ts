@@ -1,14 +1,18 @@
-import { defineContentConfig, defineCollection } from "@nuxt/content";
+import { defineContentConfig, defineCollection, z } from "@nuxt/content";
+import { asSeoCollection } from "@nuxtjs/seo/content";
+
+// const baseSchema = {
+//   title: z.string().nonempty(),
+//   description: z.string().nonempty(),
+// };
 
 export default defineContentConfig({
   collections: {
-    content: defineCollection({
-      source: "pages/**/*.md",
-      type: "page",
-    }),
-    elements: defineCollection({
-      source: "elements/**/*.yml",
-      type: "data",
-    }),
+    content: defineCollection(
+      asSeoCollection({
+        source: "**/*.md",
+        type: "page",
+      }),
+    ),
   },
 });
