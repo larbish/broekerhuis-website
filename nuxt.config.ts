@@ -25,6 +25,11 @@ export default defineNuxtConfig({
     ],
     "nuxt-svgo",
   ],
+  content: {
+    preview: {
+      api: "https://api.nuxt.studio",
+    },
+  },
   css: ["~/assets/css/main.css"],
   postcss: {
     plugins: {
