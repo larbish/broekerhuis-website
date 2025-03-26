@@ -36,7 +36,7 @@ const { titleComponent = 'h1', subtitleComponent = 'h2' } = defineProps<{
   gap: 1.5rem;
 
   @media (width > 1024px) {
-    grid-column: 8 / span 12;
+    grid-column: 7 / span 12;
   }
 
   &__title,

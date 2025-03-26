@@ -40,7 +40,7 @@ defineProps<{
     color: var(--color-white, #fff);
 
     @media (width > 768px) {
-      grid-column: 9 / span 9;
+      grid-column: 8 / span 10;
     }
   }
 
