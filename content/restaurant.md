@@ -12,3 +12,19 @@ tagline: Eerlijk eten, warme stoelen en smaak die blijft hangen.
 title: "Restaurant in Broek in Waterland: De Broeker Huiskamer"
 ---
 ::
+
+::section-intro
+---
+title: Wat je kunt verwachten
+title-component: h2
+---
+In ons restaurant De Broeker Huiskamer eet je herkenbare gerechten, zonder poespas, maar met bakken karakter.
+We koken in het seizoen, op houtvuur, en lokaal waar het kan.
+Op de all-day kaart staan vertrouwde klassiekers en wisselende specials - eenvoudig, eerlijk en ambachtelijk bereid.
+Naast lunch en diner hebben we borrelhappen, snacks én haal je bij ons (niet alleen op vrijdag) goeie friet - iemand moet de leegte vullen die snackbar De Rob achterliet.
+
+#footer
+  :::cta-button{arrow="true" to="#menu"}
+  Bekijk ons restaurantmenu
+  :::
+::
