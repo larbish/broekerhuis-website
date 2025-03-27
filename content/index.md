@@ -24,6 +24,12 @@ Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Bro
 ::section-full-image{image="/images/6b5d84bf74f06f2501722d284f3d0080.png"}
 ::
 
-::section-intro{subtitle="tekst" title="Nog een stukkie"}
+::section-intro
+---
+subtitle: tekst
+subtitle-component: h3
+title: Nog een stukkie
+title-component: h2
+---
 Thomas vind dit leuk
 ::
