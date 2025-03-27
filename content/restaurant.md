@@ -24,10 +24,7 @@ Op de all-day kaart staan vertrouwde klassiekers en wisselende specials - eenvou
 Naast lunch en diner hebben we borrelhappen, snacks én haal je bij ons (niet alleen op vrijdag) goeie friet - iemand moet de leegte vullen die snackbar De Rob achterliet.
 
 #footer
-  :::cta-button{arrow}
-  ---
-  to: "#menu"
-  ---
+  :::cta-button{arrow to="#menu"}
   Bekijk ons restaurantmenu
   :::
 ::
