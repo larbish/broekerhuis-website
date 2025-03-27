@@ -16,13 +16,14 @@ title: Alles begint in Broek
 Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Broek in Waterland, ligt Het Broeker Huis - sinds 1775 dé plek waar mensen samenkomen.\:brAls dorpshuis, restaurant en evenementenlocatie weerspiegelen we de ziel van Broek: **warm**, **open**, **persoonlijk** en **voor iedereen**.
 
 #footer
-  :::cta-button{arrow}
-  ---
-  to: "/restaurant"
-  ---
+  :::cta-button{arrow to="/restaurant"}
   Meer over ons
   :::
 ::
 
 ::section-full-image{image="/images/6b5d84bf74f06f2501722d284f3d0080.png"}
+::
+
+::section-intro{subtitle="tekst" title="Nog een stukkie"}
+Thomas vind dit leuk
 ::
