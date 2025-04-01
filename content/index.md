@@ -21,9 +21,21 @@ Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Bro
   :::
 ::
 
+::section-visual-transition
+---
+background: true
+images: 
+  - /images/broekerhuis-1.jpg
+  - /images/broekerhuis-2.jpg
+  - /images/broekerhuis-3.jpg
+  - /images/broekerhuis-4.jpg
+---
+::
+
 ::section-two-columns
 ---
 background: true
+background-position: full
 reverse: true
 title: Broek in Waterland
 tagline: Het mooiste dorp van Nederland

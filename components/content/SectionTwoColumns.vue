@@ -1,18 +1,18 @@
 <script lang="ts" setup>
-const { background = false, reverse = false, titleComponent = 'h1', taglineComponent = 'h2' } = defineProps<{
-  title: string,
-  titleComponent?: string,
-  tagline?: string,
-  taglineComponent?: string,
-  background?: boolean,
+import type { BaseProps } from '@/types/props'
+
+interface Props extends BaseProps {
   image?: string,
   reverse?: boolean,
-}>();
+}
+
+const { background = false, reverse = false, titleComponent = 'h1', taglineComponent = 'h2' } = defineProps<Props>();
 </script>
 
 <template>
-  <section
-    :class="['section', 'section--full-width', 'two-column__section', { 'two-column__section--background': background }, , { 'two-column__section--reverse': reverse }]">
+  <SectionBase :class="['section--full-width', 'two-column__section', { 'two-column__section--reverse': reverse }]"
+    :background :background-position>
+
     <div class="two-column__column two-column__column--content">
       <div class="two-column__content">
         <div class="two-column__head">
@@ -33,7 +33,7 @@ const { background = false, reverse = false, titleComponent = 'h1', taglineCompo
         sizes="(max-width: 768px) 100vw, (min-width: 769px) 50vw" :placeholder="false"
         :fit="background ? 'cover' : 'contain'" />
     </div>
-  </section>
+  </SectionBase>
 </template>
 
 <style scoped>
@@ -41,14 +41,11 @@ const { background = false, reverse = false, titleComponent = 'h1', taglineCompo
   &__section {
     display: grid;
     grid-template-columns: subgrid;
-    padding-block: 3rem;
-
-    &--background {
-      background-color: #B9B59F;
-    }
   }
 
   &__column {
+    position: relative;
+    z-index: 2;
 
     &--content,
     &--image {

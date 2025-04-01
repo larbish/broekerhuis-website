@@ -1,14 +1,11 @@
 <script lang="ts" setup>
-const { titleComponent = 'h1', taglineComponent = 'h2' } = defineProps<{
-  title: string,
-  titleComponent?: string,
-  tagline?: string,
-  taglineComponent?: string,
-}>()
+import type { BaseProps } from '@/types/props'
+
+const { titleComponent = 'h1', taglineComponent = 'h2' } = defineProps<BaseProps>()
 </script>
 
 <template>
-  <section class="section section--padding-full-width intro__section">
+  <SectionBase class="section--padding-full-width intro__section" :background :background-position>
     <div class="intro">
       <div class="intro__head">
         <component :is="titleComponent" class="intro__title title__main">{{ title }}</component>
@@ -24,7 +21,7 @@ const { titleComponent = 'h1', taglineComponent = 'h2' } = defineProps<{
 
       <SvgoHome class="intro__icon" />
     </div>
-  </section>
+  </SectionBase>
 </template>
 
 <style scoped>

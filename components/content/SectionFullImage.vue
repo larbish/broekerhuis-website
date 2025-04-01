@@ -1,15 +1,16 @@
 <script setup lang="ts">
-const { background = false } = defineProps<{
+import type { BaseSectionProps } from '@/types/props'
+
+interface Props extends BaseSectionProps {
   image: string
-  background?: boolean
-  backgroundPosition?: "full" | "top" | "bottom"
-}>()
+}
+defineProps<Props>()
 </script>
 
 <template>
-  <section :class="['section', 'section--padding-full-width', 'full-image', { 'full-image--background': background }]">
+  <SectionBase class="section--padding-full-width" :background :background-position>
     <NuxtImg :src="image" class="full-image__image" />
-  </section>
+  </SectionBase>
 </template>
 
 <style>
