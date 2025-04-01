@@ -16,8 +16,8 @@ const { background = false, reverse = false, titleComponent = 'h1', taglineCompo
     <div class="two-column__column two-column__column--content">
       <div class="two-column__content">
         <div class="two-column__head">
-          <component :is="titleComponent" class="intro__title title__main">{{ title }}</component>
-          <component :is="taglineComponent" v-if="tagline" class="intro__subtitle title__sub">{{ tagline }}</component>
+          <component :is="titleComponent" class="title__main">{{ title }}</component>
+          <component :is="taglineComponent" v-if="tagline" class="title__sub">{{ tagline }}</component>
         </div>
         <div class="two-column__body">
           <slot />
@@ -41,7 +41,7 @@ const { background = false, reverse = false, titleComponent = 'h1', taglineCompo
   &__section {
     display: grid;
     grid-template-columns: subgrid;
-    padding: 3rem 0;
+    padding-block: 3rem;
 
     &--background {
       background-color: #B9B59F;

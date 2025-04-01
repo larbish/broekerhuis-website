@@ -12,6 +12,8 @@
   --base-font-family: Inter, serif;
   --title-font-family: "Noto Serif", serif;
   --tagline-font-family: "Reenie Beanie", cursive;
+  --columns: 24;
+  --column-width: calc(100vw / var(--columns));
 
   font-family: var(--base-font-family);
   letter-spacing: -0.02rem;
@@ -97,12 +99,15 @@ h1 {
 }
 
 .section {
-  &--padding-full-width {
-    grid-column: 2 / -2;
-  }
+   
 
-  &--full-width {
+  &--full-width,
+  &--padding-full-width {
     grid-column: 1 / -1;
+  }
+  
+  &--padding-full-width {
+    padding-inline: var(--column-width);
   }
 }
 

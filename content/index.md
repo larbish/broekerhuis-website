@@ -38,7 +38,11 @@ Vlakbij Amsterdam ligt Broek in Waterland - een dorp waar tijd even lijkt stil t
   :::
 ::
 
-::section-full-image{image="/images/6b5d84bf74f06f2501722d284f3d0080.png"}
+::section-full-image
+---
+image: /images/6b5d84bf74f06f2501722d284f3d0080.png
+background: true
+---
 ::
 
 ::section-intro
