@@ -23,7 +23,6 @@ const { arrow = false } = defineProps<{
   border-radius: 10rem;
   transition: 200ms;
   text-decoration: none;
-  ;
 
   @media (hover: hover) {
     &:hover {

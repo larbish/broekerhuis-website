@@ -5,7 +5,7 @@ defineProps<{
 </script>
 
 <template>
-  <section class="section section--full-width full-image">
+  <section class="section section--padding-full-width full-image">
     <NuxtImg :src="image" class="full-image__image" />
   </section>
 </template>

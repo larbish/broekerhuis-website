@@ -1,9 +1,9 @@
 <script lang="ts" setup>
-const { titleComponent = 'h1', subtitleComponent = 'h2' } = defineProps<{
+const { titleComponent = 'h1', taglineComponent = 'h2' } = defineProps<{
   title: string,
-  subtitle?: string,
   titleComponent?: string,
-  subtitleComponent?: string,
+  tagline?: string,
+  taglineComponent?: string,
 }>()
 </script>
 
@@ -12,7 +12,7 @@ const { titleComponent = 'h1', subtitleComponent = 'h2' } = defineProps<{
     <div class="intro">
       <div class="intro__head">
         <component :is="titleComponent" class="intro__title title__main">{{ title }}</component>
-        <component :is="subtitleComponent" v-if="subtitle" class="intro__subtitle title__sub">{{ subtitle }}</component>
+        <component :is="taglineComponent" v-if="tagline" class="intro__subtitle title__sub">{{ tagline }}</component>
       </div>
       <div class="intro__body">
         <slot />
