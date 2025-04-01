@@ -30,6 +30,9 @@ export default defineNuxtConfig({
       api: "https://api.nuxt.studio",
     },
   },
+  image: {
+    provider: process.env.IS_NETLIFY === "1" ? "netlify" : "ipx",
+  },
   css: ["~/assets/css/main.css"],
   postcss: {
     plugins: {
