@@ -21,6 +21,7 @@ const { background = false, backgroundPosition = "bottom" } = defineProps<Props>
   position: relative;
   overflow: hidden;
   display: flex;
+  flex-flow: row nowrap;
   padding-block: 3rem 6rem;
   gap: var(--column-width, 3vw);
 
