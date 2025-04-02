@@ -43,8 +43,6 @@ title: Broek in Waterland
 Vlakbij Amsterdam ligt Broek in Waterland - een dorp waar tijd even lijkt stil te staan. Met zijn houten huizen, schilderachtige grachtjes en de hoogste dichtheid rijksmonumenten van Nederland, is Broek een levend sprookje. Wandel, verdwaal, onthaast, proef. Broek vertelt de rest.
 (En dat moet ook wel, als mooiste dorp van Nederland)
 
-![304741302_525369249397131_5255228384777147034_n.jpg](/images/304741302_525369249397131_5255228384777147034_n.jpg)
-
 #footer
   :::cta-button{arrow to="/restaurant"}
   Lees alles over ons bijzondere dorp
