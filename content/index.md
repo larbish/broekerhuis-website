@@ -24,7 +24,7 @@ Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Bro
 ::section-visual-transition
 ---
 background: true
-images: 
+images:
   - /images/broekerhuis-1.jpg
   - /images/broekerhuis-2.jpg
   - /images/broekerhuis-3.jpg
@@ -35,12 +35,11 @@ images:
 ::section-two-columns
 ---
 background: true
-background-position: full
 reverse: true
-title: Broek in Waterland
+background-position: full
 tagline: Het mooiste dorp van Nederland
+title: Broek in Waterland
 ---
-
 Vlakbij Amsterdam ligt Broek in Waterland - een dorp waar tijd even lijkt stil te staan. Met zijn houten huizen, schilderachtige grachtjes en de hoogste dichtheid rijksmonumenten van Nederland, is Broek een levend sprookje. Wandel, verdwaal, onthaast, proef. Broek vertelt de rest.
 (En dat moet ook wel, als mooiste dorp van Nederland)
 
@@ -52,8 +51,8 @@ Vlakbij Amsterdam ligt Broek in Waterland - een dorp waar tijd even lijkt stil t
 
 ::section-full-image
 ---
-image: /images/6b5d84bf74f06f2501722d284f3d0080.png
 background: true
+image: /images/6b5d84bf74f06f2501722d284f3d0080.png
 ---
 ::
 
