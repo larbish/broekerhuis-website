@@ -1,4 +1,9 @@
 <script setup lang="ts">
+/**
+ * @prop {boolean} arrow - Show or hide the arrow icon
+ * @values true, false
+ * @default false
+ */
 const { arrow = false } = defineProps<{
   arrow?: boolean
 }>();
@@ -10,17 +15,6 @@ const { arrow = false } = defineProps<{
     <svgo-arrow v-if="arrow" class="cta-button__arrow" />
   </div>
 </template>
-
-
-<studio>
-{
-  "arrow": {
-    "type": "boolean",
-    "default": false
-  }
-}
-</studio>
-
 
 <style>
 .cta-button {
