@@ -1,12 +1,10 @@
 <script setup lang="ts">
-/**
- * @prop {boolean} arrow - Show or hide the arrow icon
- * @values true, false
- * @default false
- */
-const { arrow = false } = defineProps<{
-  arrow?: boolean
-}>();
+defineProps({
+  arrow: {
+    type: Boolean,
+    default: false,
+  },
+});
 </script>
 
 <template>
