@@ -39,7 +39,6 @@ background: true
 ![Broekerhuis](/images/broekerhuis-3.jpg)
 #image_4
 ![Broekerhuis](/images/broekerhuis-4.jpg)
-
 ::
 
 ::section-two-columns
@@ -54,8 +53,8 @@ Vlakbij Amsterdam ligt Broek in Waterland - een dorp waar tijd even lijkt stil t
 (En dat moet ook wel, als mooiste dorp van Nederland)
 
 #footer
-  :::cta-button{arrow to="/restaurant"}
-  Lees alles over ons bijzondere dorp
+  :::cta-button{arrow}
+  [Lees alles over ons bijzondere dorp](/evenementen/Trouwen)
   :::
   
 #image
