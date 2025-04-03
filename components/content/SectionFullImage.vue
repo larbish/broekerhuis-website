@@ -1,15 +1,14 @@
 <script setup lang="ts">
 import type { BaseSectionProps } from '@/types/props'
 
-interface Props extends BaseSectionProps {
-  image: string
-}
-defineProps<Props>()
+defineProps<BaseSectionProps>()
 </script>
 
 <template>
   <SectionBase class="section--padding-full-width" :background :background-position>
-    <NuxtImg :src="image" class="full-image__image" />
+    <div class="full-image__image">
+      <slot />
+    </div>
   </SectionBase>
 </template>
 
@@ -37,12 +36,18 @@ defineProps<Props>()
     display: block;
     width: 100%;
     height: 80svh;
-    object-fit: cover;
-    object-position: center;
 
     @media (width > 768px) {
       height: auto;
       aspect-ratio: 16 / 9;
+    }
+
+    p:has(img),
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
     }
   }
 }

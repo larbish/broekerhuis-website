@@ -2,7 +2,6 @@
 import type { BaseProps } from '@/types/props'
 
 interface Props extends BaseProps {
-  image?: string,
   reverse?: boolean,
 }
 
@@ -29,14 +28,12 @@ const { background = false, reverse = false, titleComponent = 'h1', taglineCompo
       </div>
     </div>
     <div class="two-column__column two-column__column--image">
-      <nuxt-img v-if="image" class="two-column__image" :src="image" :alt="title" width="100%" height="100%"
-        sizes="(max-width: 768px) 100vw, (min-width: 769px) 50vw" :placeholder="false"
-        :fit="background ? 'cover' : 'contain'" />
+      <slot name="image" />
     </div>
   </SectionBase>
 </template>
 
-<style scoped>
+<style>
 .two-column {
   &__section {
     display: grid;
@@ -62,7 +59,15 @@ const { background = false, reverse = false, titleComponent = 'h1', taglineCompo
     &--image {
       grid-column: 14 / span 9;
       aspect-ratio: 17 / 20;
-      background-color: #2E322D;
+
+
+      p:has(img),
+      img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
     }
 
     .two-column__section--reverse &--content {
@@ -82,14 +87,6 @@ const { background = false, reverse = false, titleComponent = 'h1', taglineCompo
   &__footer {
     display: flex;
     justify-content: center;
-  }
-
-  &__image {
-    display: block;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center;
   }
 }
 </style>

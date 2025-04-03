@@ -1,18 +1,19 @@
 <script setup lang="ts">
 import type { BaseSectionProps } from '@/types/props'
 
-interface Props extends BaseSectionProps {
-  images: string[]
-}
+const { background = false, backgroundPosition = "bottom" } = defineProps<BaseSectionProps>();
 
-const { background = false, backgroundPosition = "bottom" } = defineProps<Props>();
+const slots = useSlots();
+const slotNames = computed(() => {
+  return Object.keys(slots).filter((slot) => slot.startsWith("image_"));
+});
 </script>
 
 <template>
   <SectionBase class="section--full-width visual-transition" :background :background-position>
-    <template v-for="image in images" :key="image">
-      <NuxtImg class="visual-transition__image" :src="image" />
-    </template>
+    <div v-for="slot in slotNames" :key="slot" class="visual-transition__image">
+      <slot :name="slot" />
+    </div>
   </SectionBase>
 </template>
 
@@ -30,9 +31,8 @@ const { background = false, backgroundPosition = "bottom" } = defineProps<Props>
     z-index: 2;
     width: 100%;
     height: 100%;
-    object-fit: cover;
     aspect-ratio: 4 / 5;
-    object-position: center;
+
 
     &:nth-child(even) {
       transform: translateY(var(--column-width, 3vw));
@@ -44,6 +44,14 @@ const { background = false, backgroundPosition = "bottom" } = defineProps<Props>
 
     &:last-child {
       margin-right: calc(var(--column-width, 3vw) / -2);
+    }
+
+    p:has(img),
+    img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
     }
   }
 }

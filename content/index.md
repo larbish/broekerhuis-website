@@ -4,7 +4,10 @@ description: Vlakbij Amsterdam, midden in het groen - waar eten verbindt, stilte
   spreekt en vieren vanzelf gaat.
 ---
 
-::home-header{image="/images/IMG_5047.jpeg"}
+::home-header
+
+#image
+  ![Thomas](/images/IMG_5047.jpeg)
 ::
 
 ::section-intro
@@ -27,12 +30,16 @@ Als dorpshuis, restaurant en evenementenlocatie weerspiegelen we de ziel van Bro
 ::section-visual-transition
 ---
 background: true
-images:
-  - /images/broekerhuis-1.jpg
-  - /images/broekerhuis-2.jpg
-  - /images/broekerhuis-3.jpg
-  - /images/broekerhuis-4.jpg
 ---
+#image_1
+![Broekerhuis](/images/broekerhuis-1.jpg)
+#image_2
+![Broekerhuis](/images/broekerhuis-2.jpg)
+#image_3
+![Broekerhuis](/images/broekerhuis-3.jpg)
+#image_4
+![Broekerhuis](/images/broekerhuis-4.jpg)
+
 ::
 
 ::section-two-columns
@@ -50,13 +57,18 @@ Vlakbij Amsterdam ligt Broek in Waterland - een dorp waar tijd even lijkt stil t
   :::cta-button{arrow to="/restaurant"}
   Lees alles over ons bijzondere dorp
   :::
+  
+#image
+![Broekerhuis](/images/6b5d84bf74f06f2501722d284f3d0080.png)
 ::
 
 ::section-full-image
 ---
 background: true
-image: /images/6b5d84bf74f06f2501722d284f3d0080.png
+image: 
 ---
+
+![Broekerhuis](/images/6b5d84bf74f06f2501722d284f3d0080.png)
 ::
 
 ::section-intro

@@ -2,7 +2,6 @@
 defineProps<{
   title?: string
   tagline?: string
-  image?: string
 }>();
 </script>
 
@@ -13,7 +12,7 @@ defineProps<{
       <p class="hero-header__tagline">{{ tagline }}</p>
     </div>
 
-    <NuxtImg alt="Hero Image" class="hero-header__image" :src="image" />
+    <slot name="image" />
 
     <slot />
   </div>

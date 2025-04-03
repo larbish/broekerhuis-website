@@ -1,7 +1,4 @@
 <script setup lang="ts">
-defineProps<{
-  image: string
-}>()
 </script>
 
 <template>
@@ -11,7 +8,9 @@ defineProps<{
     </div>
 
     <div class="header__background">
-      <NuxtImg :src="image" class="header__background-image" />
+      <div class="header__background-image">
+        <slot name="image" />
+      </div>
       <NuxtImg src="/images/header-overlay.svg" class="header__background-overlay" />
     </div>
   </header>
@@ -76,6 +75,13 @@ defineProps<{
       width: 100%;
       height: 100%;
       object-fit: cover;
+
+      p:has(img),
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
     }
 
     &-overlay {
