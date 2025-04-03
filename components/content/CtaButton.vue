@@ -11,6 +11,17 @@ const { arrow = false } = defineProps<{
   </div>
 </template>
 
+
+<studio>
+{
+  "arrow": {
+    "type": "boolean",
+    "default": false
+  }
+}
+</studio>
+
+
 <style>
 .cta-button {
   position: relative;
