@@ -3,6 +3,8 @@ title: Restaurant in Broek in Waterland - De Broeker Huiskamer
 description: Op zoek naar een restaurant in Broek in Waterland, vlakbij
   Amsterdam? De Broeker Huiskamer serveert ontbijt, lunch, borrel en diner aan
   het water - puur, seizoensgebonden en zonder fratsen.
+sitemap:
+  images: []
 ---
 
 ::hero-header
@@ -27,4 +29,16 @@ Naast lunch en diner hebben we borrelhappen, snacks én haal je bij ons (niet al
   :::cta-button{arrow to="#menu"}
   Bekijk ons restaurantmenu
   :::
+::
+
+::section-two-columns
+---
+background: "true"
+background-position: full
+tagline: tagline
+tagline-component: h3
+title: Hallo mijn naam is Thomas
+title-component: h2
+---
+blalablabla
 ::

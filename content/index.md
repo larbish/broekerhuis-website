@@ -11,13 +11,16 @@ description: Vlakbij Amsterdam, midden in het groen - waar eten verbindt, stilte
 ---
 tagline: Vlakbij Amsterdam, midden in het groen - waar eten verbindt, stilte
   spreekt en vieren vanzelf gaat.
-title: Alles begint in Broek
+tagline-component: h2
+title: Het Broeker Huis
+title-component: h1
 ---
-Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Broek in Waterland, ligt Het Broeker Huis - sinds 1775 dé plek waar mensen samenkomen.\:brAls dorpshuis, restaurant en evenementenlocatie weerspiegelen we de ziel van Broek: **warm**, **open**, **persoonlijk** en **voor iedereen**.
+Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Broek in Waterland, ligt Het Broeker Huis - sinds 1775 dé plek waar mensen samenkomen.
+
+Als dorpshuis, restaurant en evenementenlocatie weerspiegelen we de ziel van Broek: **warm**, **open**, **persoonlijk** en **voor iedereen**.
 
 #footer
-  :::cta-button{arrow to="/restaurant"}
-  Meer over ons
+  :::prose-a
   :::
 ::
 
