@@ -53,7 +53,10 @@ Vlakbij Amsterdam ligt Broek in Waterland - een dorp waar tijd even lijkt stil t
 (En dat moet ook wel, als mooiste dorp van Nederland)
 
 #footer
-  :::cta-button{arrow}
+  :::cta-button
+  ---
+  arrow: false
+  ---
   [Lees alles over ons bijzondere dorp](/evenementen/Trouwen)
   :::
   

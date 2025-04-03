@@ -1,10 +1,11 @@
 <script setup lang="ts">
-defineProps({
-  arrow: {
-    type: Boolean,
-    default: false,
-  },
-});
+/**
+ * Show an arrow icon next to the button text.
+ * @default false
+ */
+defineProps<{
+  arrow?: boolean
+}>();
 </script>
 
 <template>
