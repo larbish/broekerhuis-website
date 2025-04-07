@@ -25,6 +25,19 @@ tagline-component: h2
 title: Het Broeker Huis
 title-component: h1
 ---
+Een paar stappen voorbij het terras van de kerk, :brin het monumentale hart van Broek in Waterland, :brligt **Het Broeker Huis** – sinds 1775 dé plek waar mensen samenkomen.
+
+:br**Broek in Waterland** is geen decor. Geen film, geen toneelstuk.
+
+Het is een écht verhaal – en wordt nog steeds verteld.
+
+:br
+
+Als dorpshuis, **restaurant en vergader- en evenementenlocatie** :bris Het Broeker Huis de hoofdrolspeler in dit levend sprookje.
+
+:br
+
+**Wandel, verdwaal, onthaast, kom thuis** – Het Broeker Huis vertelt de rest.
 ::
 
 ::section-visual-transition
