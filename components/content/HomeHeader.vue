@@ -9,7 +9,7 @@
 
     <div class="header__background">
       <div class="header__background-image">
-        <slot name="image" />
+        <slot name="image" mdc-unwrap="p" />
       </div>
       <NuxtImg src="/images/header-overlay.svg" class="header__background-overlay" />
     </div>
@@ -76,7 +76,6 @@
       height: 100%;
       object-fit: cover;
 
-      p:has(img),
       img {
         width: 100%;
         height: 100%;

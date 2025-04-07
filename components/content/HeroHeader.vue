@@ -12,7 +12,7 @@ defineProps<{
       <p class="hero-header__tagline">{{ tagline }}</p>
     </div>
 
-    <slot name="image" />
+    <slot name="image" mdc-unwrap="p" />
 
     <slot />
   </div>

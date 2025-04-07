@@ -27,8 +27,8 @@ const { background = false, reverse = false, titleComponent = 'h1', taglineCompo
         </div>
       </div>
     </div>
-    <div class="two-column__column two-column__column--image">
-      <slot name="image" />
+    <div :class="['two-column__column', { 'two-column__column--image': $slots.image }]">
+      <slot name="image" mdc-unwrap="p" />
     </div>
   </SectionBase>
 </template>
@@ -60,8 +60,6 @@ const { background = false, reverse = false, titleComponent = 'h1', taglineCompo
       grid-column: 14 / span 9;
       aspect-ratio: 17 / 20;
 
-
-      p:has(img),
       img {
         display: block;
         width: 100%;

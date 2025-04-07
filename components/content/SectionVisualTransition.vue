@@ -4,15 +4,13 @@ import type { BaseSectionProps } from '@/types/props'
 const { background = false, backgroundPosition = "bottom" } = defineProps<BaseSectionProps>();
 
 const slots = useSlots();
-const slotNames = computed(() => {
-  return Object.keys(slots).filter((slot) => slot.startsWith("image_"));
-});
+const slotNames = computed(() => Object.keys(slots).filter((slot) => slot.toLowerCase().startsWith("image_") ? slot : false));
 </script>
 
 <template>
   <SectionBase class="section--full-width visual-transition" :background :background-position>
     <div v-for="slot in slotNames" :key="slot" class="visual-transition__image">
-      <slot :name="slot" />
+      <slot :name="slot" mdc-unwrap="p" />
     </div>
   </SectionBase>
 </template>
@@ -46,7 +44,6 @@ const slotNames = computed(() => {
       margin-right: calc(var(--column-width, 3vw) / -2);
     }
 
-    p:has(img),
     img {
       display: block;
       width: 100%;

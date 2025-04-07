@@ -47,10 +47,10 @@ Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Bro
 
 ::section-visual-transition
 ---
-background: "true"
+background: true
 background-position: bottom
 ---
-#image_2
+#Image_1
 ![20250310\_BROEKERHUIS\_GROTEZAAL\_262\_optimized.jpg](/Grote%20Zaal/20250310_BROEKERHUIS_GROTEZAAL_262_optimized.jpg)
 
 #Image_2
@@ -63,7 +63,7 @@ background-position: bottom
 ![20250310\_BROEKERHUIS\_GROTEZAAL\_146.JPG](/Grote%20Zaal/20250310_BROEKERHUIS_GROTEZAAL_146.JPG)
 ::
 
-::section-full-image{background="true"}
+::section-full-image{background}
 ![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/HOME/3.%20HOME_H2_Trouwlocatie_20250310_BROEKERHUIS_GROTEZAAL_122_optimized_enhanced.jpg)
 ::
 

@@ -7,7 +7,7 @@ defineProps<BaseSectionProps>()
 <template>
   <SectionBase class="section--padding-full-width" :background :background-position>
     <div class="full-image__image">
-      <slot />
+      <slot mdc-unwrap="p" />
     </div>
   </SectionBase>
 </template>
@@ -42,7 +42,6 @@ defineProps<BaseSectionProps>()
       aspect-ratio: 16 / 9;
     }
 
-    p:has(img),
     img {
       width: 100%;
       height: 100%;
