@@ -32,7 +32,7 @@ title-component: h1
 background: true
 ---
 #image_1
-![Stijlvol gedekte tafels in de Grote Zaal van Het Broeker Huis, klaar voor een intieme huwelijksceremonie of diner](/20250310_BROEKERHUIS_GROTEZAAL_146.JPG)
+![Stijlvol gedekte tafels in de Grote Zaal van Het Broeker Huis, klaar voor een intieme huwelijksceremonie of diner](/Grote%20Zaal/20250310_BROEKERHUIS_GROTEZAAL_146.JPG)
 
 #image_2
 ![Ambachtelijk huisgerookte zalm met gegrilde citroen van houtvuur door de chef van Vuurtoreneiland en Bussia](/images/broekerhuis-2.jpg)
