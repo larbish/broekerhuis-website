@@ -49,7 +49,7 @@ background-position: bottom
 ![Stijlvol dineren in de monumentale Regentessenkamer in het broeker huis aan een lange gedekte tafel met kroonluchter, wandornamenten en plafondornamenten.](/20250310_BROEKERHUIS_REGENTESSEKAMER_073.JPG)
 
 #Image_3
-![20250310\_BROEKERHUIS\_REGENTESSEKAMER\_354\_optimized.jpg](/Regentessenkamer/20250310_BROEKERHUIS_REGENTESSEKAMER_354_optimized.jpg)
+![20250310\_BROEKERHUIS\_REGENTESSEKAMER\_354\_optimized.jpg](/20250310_BROEKERHUIS_REGENTESSEKAMER_354_optimized.jpg)
 
 #Image_4
 ![Glazen en flessen wijn op een gedekte tafel met wit tafelkleed  in zachte belichting en mooie schaduwval](/20250310_BROEKERHUIS_REGENTESSEKAMER_395_optimized.jpg)
