@@ -29,15 +29,21 @@ Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Bro
 
 :br
 
+ 
+
 **Broek in Waterland** is geen decor. Geen film, geen toneelstuk.
 
 Het is een écht verhaal – en wordt nog steeds verteld.
 
 :br
 
+ 
+
 Als dorpshuis, **restaurant en vergader- en evenementenlocatie** is Het Broeker Huis de hoofdrolspeler in dit levend sprookje.
 
 :br
+
+ 
 
 **Wandel, verdwaal, onthaast, kom thuis** – Het Broeker Huis vertelt de rest.
 
@@ -57,18 +63,5 @@ title-component: h2
 #footer
   :::cta-button{arrow="true"}
   [Wat er kan (alles)](/evenementen/Trouwen)
-  :::
-::
-
-::section-intro
----
-tagline: in Broek in Waterland
-tagline-component: h3
-title: Trouwlocatie & feestlocatie
-title-component: h2
----
-#footer
-  :::cta-button{arrow="true"}
-  [Zie wat kan (alles)](/evenementen/Trouwen)
   :::
 ::
