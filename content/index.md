@@ -41,10 +41,10 @@ ligt **Het Broeker Huis** – sinds 1775 dé plek waar mensen samenkomen.
 
 **Wandel, verdwaal, onthaast, kom thuis** – Het Broeker Huis vertelt de rest.
 
-:prose-a[  :::prose-a
-    ::::prose-a
-    ::::
-  :::]
+:prose-a[:::prose-a
+\::::prose-a
+\::::
+\:::]
 ::
 
 ::section-visual-transition
