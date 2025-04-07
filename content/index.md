@@ -47,9 +47,13 @@ Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Bro
 
 ::section-visual-transition
 #image_1
-![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/HOME/1.%20HOME_Hero_20250310_BROEKERHUIS_SCENERY_369_optimized_enhanced.jpg)
+  :::
+  ![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/HOME/1.%20HOME_Hero_20250310_BROEKERHUIS_SCENERY_369_optimized_enhanced.jpg)
+  :::
 #image_2
-![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/HOME/1.%20HOME_Hero_20250310_BROEKERHUIS_SCENERY_369_optimized_enhanced.jpg)
+  :::
+  ![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/HOME/1.%20HOME_Hero_20250310_BROEKERHUIS_SCENERY_369_optimized_enhanced.jpg)
+  :::
 ::
 
 ::section-intro
