@@ -9,10 +9,10 @@ sitemap:
 
 ::hero-header
 ---
-image: /images/IMG_5047.jpeg
 tagline: Eerlijk eten, warme stoelen en smaak die blijft hangen.
 title: "Restaurant in Broek in Waterland: De Broeker Huiskamer"
 ---
+#image
 ::
 
 ::section-intro
