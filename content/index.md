@@ -45,6 +45,8 @@ ligt **Het Broeker Huis** – sinds 1775 dé plek waar mensen samenkomen.
 \::::prose-a
 \::::
 \:::]
+
+#footer
 ::
 
 ::section-visual-transition
