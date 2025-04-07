@@ -25,24 +25,37 @@ tagline-component: h2
 title: Het Broeker Huis
 title-component: h1
 ---
-Een paar stappen voorbij het terras van de kerk, :brin het monumentale hart van Broek in Waterland, :brligt **Het Broeker Huis** – sinds 1775 dé plek waar mensen samenkomen.
+Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Broek in Waterland, ligt **Het Broeker Huis** – sinds 1775 dé plek waar mensen samenkomen.
 
-:br**Broek in Waterland** is geen decor. Geen film, geen toneelstuk.
+:br
+
+ 
+
+**Broek in Waterland** is geen decor. Geen film, geen toneelstuk.
 
 Het is een écht verhaal – en wordt nog steeds verteld.
 
 :br
 
+ 
+
 Als dorpshuis, **restaurant en vergader- en evenementenlocatie** :bris Het Broeker Huis de hoofdrolspeler in dit levend sprookje.
 
 :br
 
+ 
+
 **Wandel, verdwaal, onthaast, kom thuis** – Het Broeker Huis vertelt de rest.
+
+#footer
+  :::cta-button{arrow="true"}
+  Kom binnen kijken
+  :::
 ::
 
 ::section-visual-transition
 ---
-background: true
+background: "true"
 background-position: bottom
 ---
 #image_1
@@ -58,7 +71,9 @@ background-position: bottom
 ![Prachtige lichtinval op sfeervolle globe verlichting  in de Grote Zaal van Het Broeker Huis tijdens jouw bruiloft of verjaardagsfeest](/Grote%20Zaal/20250310_BROEKERHUIS_GROTEZAAL_411_optimized.jpg)
 ::
 
-::section-full-image{background background-position="top"}
+\:br\:br
+
+::section-full-image{background="true" background-position="top"}
 ![Het Broeker Huis is een monumentaal en statig pand tussen groen en aan een schilderachtig grachtje](/HOME/3.%20HOME_H2_Trouwlocatie_20250310_BROEKERHUIS_GROTEZAAL_122_optimized_enhanced.jpg)
 ::
 
@@ -69,4 +84,13 @@ tagline-component: h3
 title: Trouwlocatie & feestlocatie
 title-component: h2
 ---
+Van **bruiloft tot borrel, van verjaardag tot jubileum** –
+
+in Het Broeker Huis vier je op jouw manier.
+
+:br
+
+ 
+
+In een monumentaal pand met **binnenplaats, karaktervolle zalen** en alles wat je nodig hebt voor een dag om nooit te vergeten. \:br\:br**Sfeervol, persoonlijk** en precies wie je bent. Het is tenslotte **jouw feestje**.
 ::
