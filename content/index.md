@@ -27,7 +27,7 @@ title-component: h1
 ---
 Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Broek in Waterland, ligt **Het Broeker Huis** - sinds 1775 dé plek waar mensen samenkomen.
 
-*Broek in Waterland** is geen decor. Geen film, geen toneelstuk. Het is een écht verhaal - en wordt nog steeds gespeeld. Als dorpshuis, **restaurant en vergader- en evenementenlocatie** is Het Broeker Huis de hoofdrolspeler in dit levend sprookje.
+**Broek in Waterland** is geen decor. Geen film, geen toneelstuk. Het is een écht verhaal - en wordt nog steeds gespeeld. Als dorpshuis, **restaurant en vergader- en evenementenlocatie** is Het Broeker Huis de hoofdrolspeler in dit levend sprookje.
 
 **Wandel, verdwaal, onthaast, kom thuis** Het Broeker Huis vertelt de rest.
 
