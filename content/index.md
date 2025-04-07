@@ -2,12 +2,19 @@
 title: Het Broeker Huis
 description: Vlakbij Amsterdam, midden in het groen - waar eten verbindt, stilte
   spreekt en vieren vanzelf gaat.
+seo:
+  title: Het Broeker Huis - Vlakbij Amsterdam, midden in het groen - waar eten
+    verbindt, stilte spreekt en vieren vanzelf gaat.
+  description: Het Broeker Huis is sinds 1775 het hart van Broek in Waterland.
+    Vandaag zijn we restaurant, trouwlocatie, vergaderplek en hotel in één. Een
+    monumentaal pand in het mooiste dorp van Nederland – vlakbij Amsterdam. Kom
+    eten, vieren, werken, vergaderen en slapen. Ongedwongen, zonder poeha, op
+    jouw manier.
 ---
 
 ::home-header
-
 #image
-  ![Thomas](/images/IMG_5047.jpeg)
+![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/HOME/1.%20HOME_Hero_20250310_BROEKERHUIS_SCENERY_369_optimized_enhanced.jpg)
 ::
 
 ::section-intro
@@ -18,13 +25,6 @@ tagline-component: h2
 title: Het Broeker Huis
 title-component: h1
 ---
-Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Broek in Waterland, ligt Het Broeker Huis - sinds 1775 dé plek waar mensen samenkomen.
-
-Als dorpshuis, restaurant en evenementenlocatie weerspiegelen we de ziel van Broek: **warm**, **open**, **persoonlijk** en **voor iedereen**.
-
-#footer
-  :::prose-a
-  :::
 ::
 
 ::section-visual-transition
@@ -32,45 +32,20 @@ Als dorpshuis, restaurant en evenementenlocatie weerspiegelen we de ziel van Bro
 background: true
 ---
 #image_1
-![Broekerhuis](/images/broekerhuis-1.jpg)
+![Stijlvol gedekte tafels in de Grote Zaal van Het Broeker Huis, klaar voor een intieme huwelijksceremonie of diner](/20250310_BROEKERHUIS_GROTEZAAL_146.JPG)
+
 #image_2
-![Broekerhuis](/images/broekerhuis-2.jpg)
+![Ambachtelijk huisgerookte zalm met gegrilde citroen van houtvuur door de chef van Vuurtoreneiland en Bussia](/images/broekerhuis-2.jpg)
+
 #image_3
-![Broekerhuis](/images/broekerhuis-3.jpg)
+![Wij wordt ingeschonken aan Stijlvol gedekte tafels in de Grote Zaal van Het Broeker Huis, klaar voor een intieme huwelijksceremonie of diner](/images/broekerhuis-3.jpg)
+
 #image_4
-![Broekerhuis](/images/broekerhuis-4.jpg)
+![het Broekerhuis - eten, drinken,m vergaderen, trouwen en feesten in broek in waterland - vlakbij Amsterdam, middenin het groen](/20250331_BROEKERHUIS_1550.JPG)
 ::
 
-::section-two-columns
----
-background: true
-reverse: true
-background-position: full
-tagline: Het mooiste dorp van Nederland
-title: Broek in Waterland
----
-Vlakbij Amsterdam ligt Broek in Waterland - een dorp waar tijd even lijkt stil te staan. Met zijn houten huizen, schilderachtige grachtjes en de hoogste dichtheid rijksmonumenten van Nederland, is Broek een levend sprookje. Wandel, verdwaal, onthaast, proef. Broek vertelt de rest.
-(En dat moet ook wel, als mooiste dorp van Nederland)
-
-#footer
-  :::cta-button
-  ---
-  arrow: false
-  ---
-  [Lees alles over ons bijzondere dorp](/evenementen/Trouwen)
-  :::
-  
-#image
-![Broekerhuis](/images/6b5d84bf74f06f2501722d284f3d0080.png)
-::
-
-::section-full-image
----
-background: true
-image: 
----
-
-![Broekerhuis](/images/6b5d84bf74f06f2501722d284f3d0080.png)
+::section-full-image{background :image='null'}
+![Het Broeker Huis is een monumentaal en statig pand tussen groen en aan een schilderachtig grachtje](/HOME/3.%20HOME_H2_Trouwlocatie_20250310_BROEKERHUIS_GROTEZAAL_122_optimized_enhanced.jpg)
 ::
 
 ::section-intro
