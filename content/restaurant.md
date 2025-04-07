@@ -16,31 +16,25 @@ title: Restaurant De Broeker Huiskamer
 ![Geniet tijdens je lunch van een ambachtelijke huisgerookte zalm op huisgebakken desembrood met gegrilde citroen van het houtvuur.](/20250310_BROEKERHUIS_REGENTESSEKAMER_354_optimized.jpg)
 ::
 
-::section-visual-transition{background="true" background-position="full"}
+::section-visual-transition
+---
+background: "true"
+background-position: full
+---
+#image_1
+
+#Image_2
 ::
 
 ::section-intro
 ---
+background: "true"
+background-position: full
 tagline: Eten zonder gedoe.
 tagline-component: h3
 title: Wat je kunt verwachten
 title-component: h2
 ---
-In ons **restaurant De Broeker Huiskamer** eet je herkenbare gerechten, zonder poespas, maar met bakken karakter.
-We koken **in het seizoen, op houtvuur, en lokaal** waar het kan.
-
-:br
-
- 
-
-Op de all-day kaart staan vertrouwde klassiekers en wisselende specials - eenvoudig, eerlijk en ambachtelijk bereid.
-
-:br
-
- 
-
-Naast lunch en diner hebben we borrelhappen, snacks én haal je bij ons (niet alleen op vrijdag) goeie friet - iemand moet de leegte vullen die snackbar De Rob achterliet.
-
 #footer
   :::cta-button{arrow to="#menu"}
   [Het menu](#)
@@ -56,21 +50,4 @@ tagline-component: h3
 title: Houtvuur, seizoenen & nul fratsen
 title-component: h2
 ---
-Of je nou **trouwt**, **uit eten gaat** of je **verjaardag** viert – overal in **Het Broeker Huis**
-
-:br
-
- 
-
-**Thijs Steur** – geboren Broeker en jarenlang zwetend boven de kachels van **Vuurtoreneiland, Bussia, Toscanini en Lastage** – kookt met **vakmanschap en zonder fratsen**.
-
-:br
-
- 
-
-Bij ons draait goed eten niet om duur en chic, maar om **liefde en verbinding**.
-
-Van de eerste kop (zelfgebrande) koffie tot de laatste hap (huisgebakken) taart:
-
-**één smaak, altijd raak.**
 ::
