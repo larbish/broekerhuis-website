@@ -36,9 +36,13 @@ Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Bro
 **Wandel, verdwaal, onthaast, kom thuis** Het Broeker Huis vertelt de rest.
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{:arrow="true"}
   [Kijk rond](#)
   :::
+::
+
+::section-full-image
+![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/HOME/1.%20HOME_Hero_20250310_BROEKERHUIS_SCENERY_369_optimized_enhanced.jpg)
 ::
 
 ::section-intro
@@ -49,7 +53,7 @@ title: Trouwlocatie & feestlocatie
 title-component: h2
 ---
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{:arrow="true"}
   [Wat er kan (alles)](/evenementen/Trouwen)
   :::
 ::
