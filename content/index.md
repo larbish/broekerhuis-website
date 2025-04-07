@@ -29,31 +29,38 @@ Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Bro
 
 :br
 
+ 
+
 **Broek in Waterland** is geen decor. Geen film, geen toneelstuk. Het is een écht verhaal – en wordt nog steeds gespeeld. Als dorpshuis, **restaurant en vergader- en evenementenlocatie** is Het Broeker Huis de hoofdrolspeler in dit levend sprookje.
 
 :br
 
+ 
+
 **Wandel, verdwaal, onthaast, kom thuis** Het Broeker Huis vertelt de rest.
 
 #footer
-  :::cta-button{:arrow="true"}
+  :::cta-button{arrow}
   [Kijk rond](#)
   :::
 ::
 
-::section-full-image
-![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/HOME/1.%20HOME_Hero_20250310_BROEKERHUIS_SCENERY_369_optimized_enhanced.jpg)
+::section-visual-transition
+#image_2
+![20250310\_BROEKERHUIS\_GROTEZAAL\_262\_optimized.jpg](/Grote%20Zaal/20250310_BROEKERHUIS_GROTEZAAL_262_optimized.jpg)
+
+#Image_2
+![20250310\_BROEKERHUIS\_REGENTESSEKAMER\_303\_optimized.jpg](/Regentessenkamer/20250310_BROEKERHUIS_REGENTESSEKAMER_303_optimized.jpg)
+
+#Image_3
+![20250310\_BROEKERHUIS\_REGENTESSEKAMER\_354\_optimized.jpg](/Regentessenkamer/20250310_BROEKERHUIS_REGENTESSEKAMER_354_optimized.jpg)
+
+#Image_4
+![20250310\_BROEKERHUIS\_GROTEZAAL\_146.JPG](/Grote%20Zaal/20250310_BROEKERHUIS_GROTEZAAL_146.JPG)
 ::
 
-::section-visual-transition
-#image_1
-  :::
-  ![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/HOME/1.%20HOME_Hero_20250310_BROEKERHUIS_SCENERY_369_optimized_enhanced.jpg)
-  :::
-#image_2
-  :::
-  ![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/HOME/1.%20HOME_Hero_20250310_BROEKERHUIS_SCENERY_369_optimized_enhanced.jpg)
-  :::
+::section-full-image
+![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/HOME/1.%20HOME_Hero_20250310_BROEKERHUIS_SCENERY_369_optimized_enhanced.jpg)
 ::
 
 ::section-intro
@@ -64,7 +71,7 @@ title: Trouwlocatie & feestlocatie
 title-component: h2
 ---
 #footer
-  :::cta-button{:arrow="true"}
+  :::cta-button{arrow}
   [Wat er kan (alles)](/evenementen/Trouwen)
   :::
 ::
