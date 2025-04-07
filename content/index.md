@@ -17,62 +17,14 @@ seo:
 ![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/HOME/1.%20HOME_Hero_20250310_BROEKERHUIS_SCENERY_369_optimized_enhanced.jpg)
 ::
 
-::section-visual-transition
+::section-intro
 ---
-background: "true"
-background-position: bottom
+tagline: Vlakbij Amsterdam, midden in het groen – waar eten verbindt, stilte
+  spreekt en vieren vanzelf gaat
+tagline-component: h2
+title: Het Broeker Huis
+title-component: h1
 ---
-#image_1
-![Stijlvol gedekte tafels in de Regentessenkamer van Het Broeker Huis, klaar voor een intieme huwelijksceremonie of diner](/Regentessenkamer/20250310_BROEKERHUIS_REGENTESSEKAMER_395_optimized.jpg)
-
-#image_2
-![Ambachtelijk huisgerookte zalm met gegrilde citroen van houtvuur door de chef van Vuurtoreneiland en Bussia](/images/broekerhuis-2.jpg)
-
-#image_3
-![Wij wordt ingeschonken aan Stijlvol gedekte tafels in de Grote Zaal van Het Broeker Huis, klaar voor een intieme huwelijksceremonie of diner](/images/broekerhuis-3.jpg)
-
-#image_4
-![Prachtige lichtinval op sfeervolle globe verlichting  in de Grote Zaal van Het Broeker Huis tijdens jouw bruiloft of verjaardagsfeest](/Grote%20Zaal/20250310_BROEKERHUIS_GROTEZAAL_411_optimized.jpg)
-::
-
-::section-full-image{background="true" background-position="top"}
-  :::section-intro
-  ---
-  tagline: Vlakbij Amsterdam, midden in het groen - waar eten verbindt, stilte
-    spreekt en vieren vanzelf gaat.
-  tagline-component: h2
-  title: Het Broeker Huis
-  title-component: h1
-  ---
-  Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Broek in Waterland, ligt **Het Broeker Huis** – sinds 1775 dé plek waar mensen samenkomen.
-  
-  :br
-  
-   
-  
-  **Broek in Waterland** is geen decor. Geen film, geen toneelstuk.
-  
-  Het is een écht verhaal – en wordt nog steeds verteld.
-  
-  :br
-  
-   
-  
-  Als dorpshuis, **restaurant en vergader- en evenementenlocatie** :bris Het Broeker Huis de hoofdrolspeler in dit levend sprookje.
-  
-  :br
-  
-   
-  
-  **Wandel, verdwaal, onthaast, kom thuis** – Het Broeker Huis vertelt de rest.
-  
-  #footer
-    ::::cta-button{arrow="true"}
-    Kom binnen kijken
-    ::::
-  :::
-
-![Het Broeker Huis is een monumentaal en statig pand tussen groen en aan een schilderachtig grachtje](/HOME/3.%20HOME_H2_Trouwlocatie_20250310_BROEKERHUIS_GROTEZAAL_122_optimized_enhanced.jpg)
 ::
 
 ::section-intro
@@ -84,6 +36,6 @@ title-component: h2
 ---
 #footer
   :::cta-button{arrow="true"}
-  [Zie wat er kan (alles)](/evenementen/Trouwen)
+  [Zie wat kan (alles)](/evenementen/Trouwen)
   :::
 ::
