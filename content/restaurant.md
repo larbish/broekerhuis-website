@@ -16,6 +16,9 @@ title: Restaurant De Broeker Huiskamer
 ![Geniet tijdens je lunch van een ambachtelijke huisgerookte zalm op huisgebakken desembrood met gegrilde citroen van het houtvuur.](/20250310_BROEKERHUIS_REGENTESSEKAMER_354_optimized.jpg)
 ::
 
+::section-visual-transition{background="true" background-position="full"}
+::
+
 ::section-intro
 ---
 tagline: Eten zonder gedoe.
@@ -48,7 +51,7 @@ Naast lunch en diner hebben we borrelhappen, snacks én haal je bij ons (niet al
 ---
 background: "true"
 background-position: full
-tagline: "Eet zoals Broek leeft: pretentieloos en vol karakter."
+tagline: Eet zoals Broek leeft.
 tagline-component: h3
 title: Houtvuur, seizoenen & nul fratsen
 title-component: h2
