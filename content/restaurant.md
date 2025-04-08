@@ -16,10 +16,30 @@ title: Restaurant De Broeker Huiskamer
 ![Geniet tijdens je lunch van een ambachtelijke huisgerookte zalm op huisgebakken desembrood met gegrilde citroen van het houtvuur.](/20250310_BROEKERHUIS_REGENTESSEKAMER_354_optimized.jpg)
 ::
 
+::section-intro
+---
+backgroundPosition: bottom
+tagline: Uit eten zonder gedoe.
+title: Wat je kunt verwachten
+---
+In De Broeker Huiskamer eet je herkenbare gerechten, zonder poespas, maar met bakken karakter.
+
+We koken in het seizoen, op houtvuur, en lokaal waar het kan.
+
+Op de all-day kaart staan vertrouwde klassiekers en wisselende specials – eenvoudig, eerlijk en ambachtelijk bereid.
+
+Naast lunch en diner hebben we borrelhappen, snacks én goeie friet – iemand moet de leegte vullen die snackbar De Rob achterliet.
+
+#footer
+  :::cta-button{arrow}
+  [Ons menu](#)
+  :::
+::
+
 ::section-visual-transition
 ---
-background: "true"
-background-position: full
+background: true
+backgroundPosition: full
 ---
 #image_1
 ![20250331\_BROEKERHUIS\_1438.jpeg](/20250331_BROEKERHUIS_1438.jpeg)
@@ -32,21 +52,6 @@ background-position: full
 
 #Image_4
 ![20250310\_BROEKERHUIS\_GROTEZAAL\_346.JPG](/20250310_BROEKERHUIS_GROTEZAAL_346.JPG)
-::
-
-::section-intro
----
-background: "true"
-background-position: full
-tagline: Eten zonder gedoe.
-tagline-component: h3
-title: Wat je kunt verwachten
-title-component: h2
----
-#footer
-  :::cta-button{arrow to="#menu"}
-  [Het menu](#)
-  :::
 ::
 
 ::section-two-columns
@@ -63,9 +68,13 @@ Of je nou **trouwt, uit eten** gaat of je **verjaardag viert** – overal in **H
 
 :br
 
+ 
+
 **Thijs Steur** – geboren Broeker en jarenlang zwetend boven de kachels van **Vuurtoreneiland, Bussia, Toscanini en Lastage** – kookt met vakmanschap en zonder fratsen. Bij ons draait goed eten niet om duur en chic, maar om liefde en verbinding.
 
 :br
+
+ 
 
 Van de eerste kop (zelfgebrande) koffie tot de laatste hap (huisgebakken) taart: **één smaak, altijd raak.**
 
@@ -73,4 +82,7 @@ Van de eerste kop (zelfgebrande) koffie tot de laatste hap (huisgebakken) taart:
   :::cta-button{arrow}
   [Ons menu](#)
   :::
+
+#image
+![20250331\_BROEKERHUIS\_1445.JPG](/20250331_BROEKERHUIS_1445.JPG)
 ::
