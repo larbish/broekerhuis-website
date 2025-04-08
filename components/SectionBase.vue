@@ -1,11 +1,13 @@
 <script setup lang="ts">
 import type { BaseSectionProps } from '@/types/props'
 const { background = false, backgroundPosition = "top" } = defineProps<BaseSectionProps>()
+
+const hasBackground = computed<boolean>(() => typeof background === 'string' ? background === 'true' : !!background);
 </script>
 
 <template>
   <section
-    :class="['section', { 'section--background': background }, { [`section--background-${backgroundPosition}`]: backgroundPosition }]">
+    :class="['section', { 'section--background': hasBackground }, { [`section--background-${backgroundPosition}`]: backgroundPosition }]">
     <slot />
   </section>
 </template>

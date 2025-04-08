@@ -3,15 +3,17 @@
  * Show an arrow icon next to the button text.
  * @default false
  */
-defineProps<{
-  arrow?: boolean
+const { arrow } = defineProps<{
+  arrow?: boolean | string
 }>();
+
+const hasArrow = computed<boolean>(() => typeof arrow === 'string' ? arrow === 'true' : !!arrow);
 </script>
 
 <template>
-  <div :class="['cta-button', { 'cta-button--icon': arrow }]">
+  <div :class="['cta-button', { 'cta-button--icon': hasArrow }]">
     <slot mdc-unwrap="p" />
-    <svgo-arrow v-if="arrow" class="cta-button__arrow" />
+    <svgo-arrow v-if="hasArrow" class="cta-button__arrow" />
   </div>
 </template>
 
