@@ -1,3 +1,9 @@
+<script setup lang="ts">
+const { data } = await useAsyncData('navigation', () => {
+  return queryCollectionNavigation('content')
+})
+</script>
+
 <template>
   <div class="layout">
     <nav class="top-nav">

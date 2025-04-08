@@ -12,6 +12,9 @@ export default defineContentConfig({
       asSeoCollection({
         source: "**/*.md",
         type: "page",
+        schema: z.object({
+          topNav: z.boolean().optional(),
+        }),
       }),
     ),
   },
