@@ -29,9 +29,13 @@ Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Bro
 
 :br
 
+ 
+
 **Broek in Waterland** is geen decor. Geen film, geen toneelstuk. Het is een écht verhaal - en wordt nog steeds berteld Als dorpshuis, **restaurant en vergader- en evenementenlocatie** is Het Broeker Huis de hoofdrolspeler in dit levend sprookje.
 
 :br
+
+ 
 
 **Wandel, verdwaal, onthaast, kom thuis** - Het Broeker Huis vertelt de rest.
 
