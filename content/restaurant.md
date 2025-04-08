@@ -28,9 +28,13 @@ We koken i**n het seizoen, op houtvuur, en lokaal** waar het kan.
 
 :br
 
+ 
+
 Op de all-day kaart staan vertrouwde klassiekers en wisselende specials – **eenvoudig, eerlijk en ambachtelijk** bereid.
 
 :br
+
+ 
 
 Naast **lunch en diner** hebben we **borrelhappen, snacks én goeie friet** – iemand moet de leegte vullen die snackbar De Rob achterliet.
 
@@ -103,6 +107,8 @@ title: Voor iedereen, op elk moment
 
 :br
 
+ 
+
 Ontbijt met een bakkie aan **de leestafel**.
 
 Verlies tijdens de lunch zorgeloos je kinderen uit het oog in **de speelhoek**.
@@ -111,10 +117,15 @@ Verlies tijdens de lunch zorgeloos je kinderen uit het oog in **de speelhoek**.
 
 :br
 
-**Kom als gast, ga als Broeker.**
+ 
 
-#footer
+**Kom als gast, ga als Broeker.**
 
 #image
 ![20250331\_BROEKERHUIS\_1492.JPG](/20250331_BROEKERHUIS_1492.JPG)
+
+#footer
+  :::cta-button{arrow}
+  [Bekijk de Huiskamer](#)
+  :::
 ::
