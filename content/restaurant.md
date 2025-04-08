@@ -23,8 +23,6 @@ background-position: full
 ---
 #image_1
 ![20250331\_BROEKERHUIS\_1438.jpeg](/20250331_BROEKERHUIS_1438.jpeg)
-
-#Image_2
 ::
 
 ::section-intro
