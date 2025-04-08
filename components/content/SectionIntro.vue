@@ -33,7 +33,7 @@ const { titleComponent = 'h1', taglineComponent = 'h2' } = defineProps<BaseProps
   gap: 1.5rem;
 
   @media (width > 1024px) {
-    grid-column: 7 / span 12;
+    grid-column: 8 / span 10;
   }
 
   &__title,
@@ -57,7 +57,7 @@ const { titleComponent = 'h1', taglineComponent = 'h2' } = defineProps<BaseProps
   &__body,
   &__footer,
   &__icon {
-    grid-column: 2 / -2;
+    grid-column: 1 / -1;
   }
 
   &__footer {
