@@ -1,11 +1,17 @@
 <script setup lang="ts">
 import type { BaseSectionProps } from '@/types/props'
 
-defineProps<BaseSectionProps>()
+interface Props extends BaseSectionProps {
+  padding?: boolean | string,
+}
+
+const { padding = false } = defineProps<Props>()
+const hasPaddding = computed(() => typeof padding === 'string' ? padding === 'true' : !!padding)
 </script>
 
 <template>
-  <SectionBase class="section--padding-full-width" :background :background-position>
+  <SectionBase :class="hasPaddding ? 'section--padding-full-width' : 'section--full-width'" :background
+    :background-position>
     <div class="full-image__image">
       <slot mdc-unwrap="p" />
     </div>
