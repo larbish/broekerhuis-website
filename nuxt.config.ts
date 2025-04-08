@@ -43,4 +43,9 @@ export default defineNuxtConfig({
     url: "https://www.broekerhuis.nl/",
     name: "Het Broeker Huis",
   },
+  app: {
+    head: {
+      link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.svg" }],
+    },
+  },
 });
