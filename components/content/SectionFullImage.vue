@@ -6,11 +6,11 @@ interface Props extends BaseSectionProps {
 }
 
 const { padding = false } = defineProps<Props>()
-const hasPaddding = computed(() => typeof padding === 'string' ? padding === 'true' : !!padding)
+const hasPadding = computed(() => typeof padding === 'string' ? padding === 'true' : !!padding)
 </script>
 
 <template>
-  <SectionBase :class="hasPaddding ? 'section--padding-full-width' : 'section--full-width'" :background
+  <SectionBase :class="hasPadding ? 'section--padding-full-width' : 'section--full-width'" :background
     :background-position>
     <div class="full-image__image">
       <slot mdc-unwrap="p" />
