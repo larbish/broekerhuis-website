@@ -13,7 +13,7 @@ export default defineContentConfig({
         source: "**/*.md",
         type: "page",
         schema: z.object({
-          topNav: z.boolean().optional(),
+          topNav: z.boolean(),
         }),
       }),
     ),
