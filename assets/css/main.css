@@ -48,6 +48,7 @@ h6 {
   font-variation-settings: "wdth" 100;
   font-weight: 350;
   color: var(--color-primary);
+  text-wrap: balance;
 }
 
 h1 {
@@ -65,6 +66,7 @@ h1 {
     font-family: var(--title-font-family, 'Suisse Int', sans-serif);
     font-weight: 350;
     color: var(--color-primary);
+    text-wrap: balance;
   }
 
   &__main {
