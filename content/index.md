@@ -10,6 +10,10 @@ seo:
     monumentaal pand in het mooiste dorp van Nederland – vlakbij Amsterdam. Kom
     eten, vieren, werken, vergaderen en slapen. Ongedwongen, zonder poeha, op
     jouw manier.
+ogImage:
+  props:
+    key-128: ""
+topNav: false
 ---
 
 ::home-header
