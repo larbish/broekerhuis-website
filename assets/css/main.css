@@ -118,3 +118,7 @@ p {
     color: var(--color-primary,#2E322D);
   }
 }
+
+html {
+	scroll-timeline: --page-scroll block;
+}
