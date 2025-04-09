@@ -6,8 +6,6 @@ description: Op zoek naar een restaurant in Broek in Waterland, vlakbij
 sitemap:
   images: []
 topNav: true
-navigation:
-  title: Restaurant
 ---
 
 ::hero-header
