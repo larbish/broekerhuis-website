@@ -6,7 +6,86 @@ description: Op zoek naar een restaurant in Broek in Waterland, vlakbij
 sitemap:
   images: []
 topNav: true
+navigation:
+  title: Restaurant
 ---
+
+::hero-header
+---
+tagline: Eerlijk eten, warme stoelen en smaak die blijft hangen.
+title: Restaurant De Broeker Huiskamer
+---
+#image
+![Geniet tijdens je lunch van een ambachtelijke huisgerookte zalm op huisgebakken desembrood met gegrilde citroen van het houtvuur.](/20250310_BROEKERHUIS_REGENTESSEKAMER_354_optimized.jpg)
+::
+
+::section-intro
+---
+backgroundPosition: bottom
+tagline: Uit eten zonder gedoe.
+title: Wat je kunt verwachten
+---
+#footer
+  :::cta-button{arrow}
+  [Ons menu](#)
+  :::
+::
+
+::section-visual-transition
+---
+background: true
+backgroundPosition: full
+---
+#image_1
+![20250331\_BROEKERHUIS\_1438.jpeg](/20250331_BROEKERHUIS_0609.JPG)
+
+#Image_2
+![20250331\_BROEKERHUIS\_0930.JPG](/20250331_BROEKERHUIS_0930.JPG)
+
+#Image_3
+![vuurkoken.jpg](/vuurkoken.jpg)
+
+#Image_4
+![20250310\_BROEKERHUIS\_GROTEZAAL\_346.JPG](/20250310_BROEKERHUIS_GROTEZAAL_346.JPG)
+::
+
+::section-two-columns
+---
+background: true
+background-position: full
+tagline: Eet zoals Broek leeft.
+tagline-component: h3
+title: Houtvuur, seizoenen & nul fratsen
+title-component: h2
+titleComponent: ComponentType
+---
+#footer
+  :::cta-button{arrow}
+  [Ons menu](#)
+  :::
+
+#image
+![20250331\_BROEKERHUIS\_1445.JPG](/20250331_BROEKERHUIS_0297.JPG)
+::
+
+::section-two-columns
+---
+background: true
+reverse: true
+backgroundPosition: full
+tagline: (G)een restaurant.
+title: Voor iedereen, op elk moment
+---
+#image
+![20250331\_BROEKERHUIS\_1492.JPG](/20250331_BROEKERHUIS_1492.JPG)
+
+#footer
+  :::cta-button{arrow}
+  [Bekijk de Huiskamer](#)
+  :::
+::
+
+XXX
 
 ::hero-header
 ---
