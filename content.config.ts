@@ -13,9 +13,18 @@ export default defineContentConfig({
         source: "**/*.md",
         type: "page",
         schema: z.object({
-          navigation: z.object({
-            topNav: z.boolean(),
-          }),
+          navigation: z
+            .union([
+              z.boolean(),
+              z.object({
+                title: z.string(),
+                description: z.string(),
+                icon: z.string(),
+                displayInTopNav: z.boolean(),
+                topNavOrder: z.number(),
+              }),
+            ])
+            .default(true),
         }),
       }),
     ),
