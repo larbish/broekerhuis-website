@@ -29,7 +29,7 @@ tagline: En als je wilt hangen wij de slingers op.
 taglineComponent: ComponentType
 title: Het is jouw feestje
 ---
-In **Het Broeker Huis** – dé trouw- en feestlocatie van het mooiste dorp van Nederland – vier je alles wat telt: je ceremonie onder de bomen op **de romantische binnenplaats**. Een **borrel** in de Trouwzaal. **Afscheid** in stilte. **Een verjaardag** die grondig uit de hand loopt. Of gewoon omdat het kan. Bij ons ****mag (bijna) alles.
+In **Het Broeker Huis** – dé trouw- en feestlocatie van het mooiste dorp van Nederland – vier je alles wat telt: je ceremonie onder de bomen op **de romantische binnenplaats**. Een **borrel** in de Trouwzaal. **Afscheid** in stilte. **Een verjaardag** die grondig uit de hand loopt. Of gewoon omdat het kan. Bij ons \*\*\*\*mag (bijna) alles.
 
 Wat je ook viert, de vloer is van jou – klein en uitbundig of groots en intiem. Je oma als DJ? Graag. Alles uit handen geven? Kan.
 
@@ -39,6 +39,16 @@ Hulp van onze feestfluisteraar?
 
 #footer
   :::cta-button{arrow="true"}
-  [Bel Jeppe](<# Telefoonnummer Jep>)
+  [Bel Jeppe](#%20Telefoonnummer%20Jep)
   :::
+::
+
+::section-two-columns
+---
+background: "true"
+backgroundPosition: full
+tagline: Elke zaal een verhaal.
+title: Onze zalen
+titleComponent: ComponentType
+---
 ::
