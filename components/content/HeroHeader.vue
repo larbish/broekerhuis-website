@@ -36,7 +36,7 @@ defineProps<{
   }
 
   &__title {
-    font-size: clamp(2rem, 30vw, 6rem);
+    font-size: clamp(2rem, 8vw, 6rem);
     line-height: 1.1;
     grid-column: 5 / -5;
     top: 50%;
@@ -48,7 +48,7 @@ defineProps<{
     text-align: left;
     line-height: 0.75;
     font-family: var(--tagline-font-family, 'Lora');
-    font-size: clamp(1rem, 15vw, 3rem);
+    font-size: clamp(1rem, 4vw, 3rem);
     letter-spacing: -1.92px;
     bottom: 15%;
     font-weight: 500;

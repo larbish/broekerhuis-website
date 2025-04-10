@@ -31,9 +31,16 @@ const slotNames = computed(() => Object.keys(slots).filter((slot) => slot.toLowe
     height: 100%;
     aspect-ratio: 4 / 5;
 
-
     &:nth-child(even) {
       transform: translateY(var(--column-width, 3vw));
+    }
+
+    &:nth-child(n+3) {
+      display: none;
+
+      @media (width > 768px) {
+        display: block;
+      }
     }
 
     &:first-child {
