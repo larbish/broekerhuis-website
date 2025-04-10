@@ -31,11 +31,7 @@ titleComponent: ComponentType
 ---
 Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Broek in Waterland, ligt **Het Broeker Huis** – sinds 1775 dé plek waar mensen samenkomen.
 
-**Broek in Waterland** is geen decor. Geen film, geen toneelstuk.
-
-Het is een écht verhaal – en wordt nog steeds verteld.
-
-Als dorpshuis, **restaurant en vergader- en evenementenlocatie** is Het Broeker Huis de hoofdrolspeler in dit levend sprookje.
+**Broek in Waterland** is geen decor. Geen film, geen toneelstuk. Het is een écht verhaal – en wordt nog steeds verteld. Als dorpshuis, **restaurant en vergader- en evenementenlocatie** is Het Broeker Huis de hoofdrolspeler in dit levend sprookje.
 
 **Wandel, verdwaal, onthaast, kom thui**s – Het Broeker Huis vertelt de rest.
 
@@ -45,7 +41,7 @@ Als dorpshuis, **restaurant en vergader- en evenementenlocatie** is Het Broeker 
 
 #footer
   :::cta-button{arrow}
-  [Achter de gevel](</Het Broeker Huis>)
+  [Achter de gevel](/Het%20Broeker%20Huis)
   :::
 ::
 
@@ -83,9 +79,7 @@ Of je nu ‘ja’ zegt, 21 wordt of 70 — sommige dagen verdienen een plek die 
 
 Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een binnenplaats,** een houten vloer met krassen en **verhalen in de muren**.
 
-**Het Broeker Huis** is een plek om **groots te vieren**, zonder dik te hoeven te doen.
-
-Hoe je het ook viert – het is helemaal **jouw feestje**.
+**Het Broeker Huis** is een plek om **groots te vieren**, zonder dik te hoeven te doen. Hoe je het ook viert – het is helemaal **jouw feestje**.
 
 :br
 
@@ -93,7 +87,7 @@ Hoe je het ook viert – het is helemaal **jouw feestje**.
 
 #footer
   :::cta-button{arrow="true"}
-  [Jouw dag, jouw plek](</Trouwen & Feesten>)
+  [Jouw dag, jouw plek](/Trouwen%20&%20Feesten)
   :::
 
 #image
@@ -108,15 +102,13 @@ tagline: Vuurwerk. Bijna open.
 taglineComponent: ComponentType
 title: Restaurant in Broek in Waterland
 ---
-**Wat kun je straks verwachten?** In restaurant De Broeker Huiskamer eet je van houtvuur, in het seizoen en puur zonder fratsen.
-
-Samen, alleen, met kids of in stilte – wat je ook eet, elk bord schreeuwt smaak.
+**Wat kun je straks verwachten?** In **Restaurant De Broeker Huiskamer** eet je van houtvuur, in het seizoen en puur zonder fratsen. Samen, alleen, met kids of in stilte – wat je ook eet, **elk bord schreeuwt smaak.**
 
 Wandel tot die tijd vooral binnen voor een kop koffie, een broodje of een stuk taart.
 
 :br
 
-Benieuwd welke Broeker topchef er straks aan de kachel staat?
+*Benieuwd welke Broeker topchef er straks boven het vuur staat?*
 
 #footer
   :::cta-button{arrow="true"}
@@ -137,8 +129,6 @@ title: Vergaderen & workshops in Broek in Waterland
 **Vergaderen, trainen of creëren** op een plek die nooit voelt als werk. **Dichtbij de stad,** ver van hectiek, snel tot de kern.
 
 :br
-
- 
 
 *Benieuwd wat je hier kunt organiseren?*
 
@@ -161,6 +151,8 @@ title: Overnachten in Broek in Waterland
 Vanaf zomer 2025 slaap je bij ons in stijl en word je wakker in het sprookje. Een persoonlijke B\&B met karakter, midden in het mooiste dorp van Nederland – vlakbij Amsterdam.
 
 :br
+
+ 
 
 Als eerste weten wanneer je kunt boeken?
 
