@@ -152,7 +152,7 @@ title: Vergaderen & workshops in Broek in Waterland
 ::section-two-columns
 ---
 reverse: true
-tagline: Dromers, nog even geduld.
+tagline: Dromers, nog even wakker blijven.
 taglineComponent: ComponentType
 title: Overnachten in Broek in Waterland
 ---
