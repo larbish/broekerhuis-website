@@ -1,16 +1,36 @@
 <script setup lang="ts">
-const { data } = await useAsyncData('navigation', () => {
-  return queryCollectionNavigation('content')
-})
+import type { ContentNavigationItem } from '@nuxt/content';
+
+const { data } = await useAsyncData('navigation', async () => {
+  const nav = await queryCollectionNavigation('content');
+
+  const flattenNav = (items: ContentNavigationItem[]) => {
+    return items.reduce((acc: ContentNavigationItem[], item: ContentNavigationItem) => {
+      if (item.displayInTopNav === true) {
+        acc.push(item);
+      }
+      if (item.children && item.children.length > 0) {
+        acc = acc.concat(flattenNav(item.children));
+      }
+      return acc;
+    }, []);
+  };
+
+  const flatNav = flattenNav(nav);
+
+  const uniqueNav: ContentNavigationItem[] = flatNav.filter(
+    (item, index, self) => index === self.findIndex((t) => t.path === item.path)
+  );
+
+  return uniqueNav.sort((a, b) => (a.topNavOrder as number) - (b.topNavOrder as number));
+
+});
+
 </script>
 
 <template>
   <div class="layout">
-    <nav class="top-nav">
-      <nuxt-link to="/">
-        <SvgoHetBroekerHuisLogo :font-controlled="false" class="top-nav__logo" />
-      </nuxt-link>
-    </nav>
+    <LayoutTopNav :items="data" />
     <main class="main">
       <slot />
     </main>
@@ -81,22 +101,7 @@ const { data } = await useAsyncData('navigation', () => {
   grid-template-columns: subgrid;
 }
 
-.top-nav {
-  position: fixed;
-  z-index: 10;
-  top: 24px;
-  left: 0;
-  right: 0;
-  display: grid;
-  grid-column: 1 / -1;
 
-  &__logo {
-    display: block;
-    width: 3.33vw;
-    margin: 0 auto;
-    color: var(--color-white, #fff);
-  }
-}
 
 .footer {
   display: grid;
