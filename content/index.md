@@ -76,7 +76,7 @@ In ons monumentaal pand met romantische binnenplaats, karaktervolle zalen en all
 
 #footer
   :::cta-button{arrow="true"}
-  [Bekijk de mogelijkheden](</Trouwen & Feesten>)
+  [Bekijk de mogelijkheden](/Trouwen%20&%20Feesten)
   :::
 
 #image
