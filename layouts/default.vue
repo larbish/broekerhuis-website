@@ -24,37 +24,11 @@ const { data } = await useAsyncData('navigation', async () => {
 
 });
 
-const firstNavItems = computed(() => {
-  const halfCount = Math.ceil(data.value.length / 2);
-  return data.value.slice(0, halfCount);
-});
-const secondNavItems = computed(() => {
-  const halfCount = Math.ceil(data.value.length / 2);
-  return data.value.slice(halfCount);
-});
 </script>
 
 <template>
   <div class="layout">
-    <nav class="top-nav">
-      <div class="top-nav__items top-nav__items--left">
-        <div class="top-nav__item" v-for="item in firstNavItems" :key="item.path">
-          <nuxt-link :to="item.path" class="top-nav__link">
-            {{ item.title }}
-          </nuxt-link>
-        </div>
-      </div>
-      <nuxt-link to="/">
-        <SvgoHetBroekerHuisLogo :font-controlled="false" class="top-nav__logo" />
-      </nuxt-link>
-      <div class="top-nav__items top-nav__items--right">
-        <div v-for="item in secondNavItems" :key="item.path" class="top-nav__item">
-          <nuxt-link :to="item.path" class="top-nav__link">
-            {{ item.title }}
-          </nuxt-link>
-        </div>
-      </div>
-    </nav>
+    <LayoutTopNav :items="data" />
     <main class="main">
       <slot />
     </main>
@@ -125,102 +99,7 @@ const secondNavItems = computed(() => {
   grid-template-columns: subgrid;
 }
 
-@keyframes grow-progress {
-  0% {
-    opacity: 0;
-  }
 
-  2% {
-    opacity: 1;
-  }
-}
-
-.top-nav {
-  position: fixed;
-  z-index: 10;
-  top: 0;
-  left: 0;
-  right: 0;
-  grid-column: 1 / -1;
-  padding: 1.5rem 0;
-
-  &:before {
-    display: block;
-    position: absolute;
-    content: '';
-    z-index: -1;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-
-    background: linear-gradient(180deg, rgba(46, 50, 45, 0.90) 0%, rgba(46, 50, 45, 0.80) 100%);
-    backdrop-filter: blur(4px);
-    animation: grow-progress auto linear;
-    animation-timeline: --page-scroll;
-  }
-
-
-  &__logo {
-    width: 3.33vw;
-    color: var(--color-white, #fff);
-    margin-left: 50%;
-    transform: translateX(-50%);
-  }
-
-  &__items {
-    position: absolute;
-    top: 50%;
-    display: flex;
-    flex-flow: row nowrap;
-    gap: 0.75rem;
-
-    &--left {
-      right: 50%;
-      justify-content: flex-end;
-      transform: translate(calc((-3.33vw / 2) - 3rem), -50%);
-    }
-
-    &--right {
-      left: 50%;
-      justify-content: flex-start;
-      transform: translate(calc((3.33vw / 2) + 3rem), -50%);
-    }
-  }
-
-  &__item,
-  &__link {
-    color: var(--color-white, #fff);
-  }
-
-  &__item {
-    display: flex;
-    flex-flow: row nowrap;
-    gap: 0.75rem;
-    color: var(--color-white, #fff);
-
-
-    &:after {
-      content: '●';
-    }
-
-    &:last-child {
-      &:after {
-        display: none;
-      }
-    }
-  }
-
-  &__link {
-    text-transform: uppercase;
-    font-size: 1rem;
-    text-decoration: none;
-    letter-spacing: -0.32px;
-    font-weight: 450;
-  }
-
-
-}
 
 .footer {
   display: grid;
