@@ -39,9 +39,13 @@ Als dorpshuis, **restaurant en vergader- en evenementenlocatie** is Het Broeker 
 
 **Wandel, verdwaal, onthaast, kom thui**s – Het Broeker Huis vertelt de rest.
 
+:br
+
+*Lees meer over Het Broeker Huis.*
+
 #footer
   :::cta-button{arrow}
-  [Achter de gevel](/Het%20Broeker%20Huis)
+  [Achter de gevel](</Het Broeker Huis>)
   :::
 ::
 
@@ -83,11 +87,13 @@ Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een
 
 Hoe je het ook viert – het is helemaal **jouw feestje**.
 
+:br
+
+*Lees meer over trouwen en vieren in Het Broeker Huis.*
+
 #footer
   :::cta-button{arrow="true"}
-  [Jouw dag, jouw plek](/Trouwen%20&%20Feesten)
-  
-  Lees meer over trouwen en vieren in Het Broeker Huis
+  [Jouw dag, jouw plek](</Trouwen & Feesten>)
   :::
 
 #image
@@ -97,18 +103,24 @@ Hoe je het ook viert – het is helemaal **jouw feestje**.
 ::section-two-columns
 ---
 reverse: true
-background: "true"
-backgroundPosition: bottom
-tagline: Kom als gast, ga als Broeker
+backgroundPosition: top
+tagline: Vuurwerk. Bijna open.
+taglineComponent: ComponentType
 title: Restaurant in Broek in Waterland
 ---
-In De Broeker Huiskamer eet je van houtvuur, in het seizoen en puur zonder fratsen.
+**Wat kun je straks verwachten?** In restaurant De Broeker Huiskamer eet je van houtvuur, in het seizoen en puur zonder fratsen.
 
 Samen, alleen, met kids of in stilte – wat je ook eet, elk bord schreeuwt smaak.
 
+Wandel tot die tijd vooral binnen voor een kop koffie, een broodje of een stuk taart.
+
+:br
+
+Benieuwd welke Broeker topchef er straks aan de kachel staat?
+
 #footer
   :::cta-button{arrow="true"}
-  [Bekijk het menu](/Restaurant)
+  [Proef alvast sfeer](/Restaurant)
   :::
 
 #image
@@ -117,15 +129,22 @@ Samen, alleen, met kids of in stilte – wat je ook eet, elk bord schreeuwt smaa
 
 ::section-two-columns
 ---
-background: "true"
-tagline: Vlakbij Amsterdam, midden in het groen, vind je onze monumentale zalen.
+tagline: Zelfs PowerPoint krijgt lucht.
 title: Vergaderen & workshops in Broek in Waterland
 ---
-Vergaderen, trainen, brainstormen of workshop – een plek die inspireert; weg van de hectiek, dichtbij de essentie.
+**Vlakbij Amsterdam**, tussen weiland en werkdruk, vind je onze **karaktervolle vergaderruimtes** – in een rijksmonument dat rust ademt, ruimte geeft en waar brainstormen écht iets oplevert.
+
+**Vergaderen, trainen of creëren** op een plek die nooit voelt als werk. **Dichtbij de stad,** ver van hectiek, snel tot de kern.
+
+:br
+
+ 
+
+*Benieuwd wat je hier kunt organiseren?*
 
 #footer
   :::cta-button{arrow="true"}
-  [Vraag een offerte aan](mailto\:zakelijk@broekerhuis.nl)
+  [Vliegensvlug een offerte](mailto\:zakelijk@broekerhuis.nl?subject=Offerteaanvraag%20vergaderen%20of%20workshop\&body=Wat%20is%20de%20datum%20van%20je%20event%3F%0AMet%20hoeveel%20personen%20wil%20je%20komen%3F%0AHoe%20laat%20wil%20je%20beginnen%3F%0AWanneer%20wil%20je%20naar%20huis%3F%0ASpecifieke%20wensen%3F%0A%0AIk%20kom%20graag%20bij%20je%20terug%20met%20een%20indicatie.%20Groet%2C%20Jeppe.)
   :::
 
 #image
@@ -135,14 +154,19 @@ Vergaderen, trainen, brainstormen of workshop – een plek die inspireert; weg v
 ::section-two-columns
 ---
 reverse: true
-tagline: Vanaf zomer 2025 slaap je bij ons in stijl en word je wakker in het sprookje.
+tagline: Dromers, nog even geduld.
+taglineComponent: ComponentType
 title: Overnachten in Broek in Waterland
 ---
-Een persoonlijke B\&B met karakter, midden in het mooiste dorp van Nederland – vlakbij Amsterdam.
+Vanaf zomer 2025 slaap je bij ons in stijl en word je wakker in het sprookje. Een persoonlijke B\&B met karakter, midden in het mooiste dorp van Nederland – vlakbij Amsterdam.
+
+:br
+
+Als eerste weten wanneer je kunt boeken?
 
 #footer
-  :::cta-button
-  [Blijf op de hoogte van opening]()
+  :::cta-button{arrow="true"}
+  [Mail Jeppe](/)
   :::
 
 #image
