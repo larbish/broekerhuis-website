@@ -1,16 +1,23 @@
 ---
-title: Trouwen & Feesten
-description: Trouwen
+title: Trouw, feest, proost en zwaai uit
+description: Vier je bruiloft, verjaardag, afscheid of jubileum in een
+  monumentaal dorpshuis vol karakter, vlakbij Amsterdam.
 navigation:
   title: Trouwen & Feesten
   displayInTopNav: true
   topNavOrder: 20
+  description: Vieren op een plek met smoel.
+seo:
+  title: Trouwen of feesten in Broek in Waterland | Het Broeker Huis
+  description: Vier bruiloft, verjaardag, afscheid of jubileum in een monumentaal
+    dorpshuis vol karakter, vlakbij Amsterdam. Persoonlijk, sfeervol en zonder
+    gedoe.
 ---
 
 ::hero-header
 ---
-tagline: Van toosten tot tranen – het is altijd jouw feestje
-title: Trouwen & feesten in Broek
+tagline: Monumentaal vieren, vlakbij Amsterdam
+title: Trouw, feest, proost en zwaai uit
 ---
 #image
 **Het is jouw feestje**
