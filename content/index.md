@@ -23,23 +23,25 @@ topNav: false
 
 ::section-intro
 ---
+tagline: Vlakbij Amsterdam, midden in het groen - waar eten verbindt, stilte
+  spreekt en vieren vanzelf gaat.
 title: Het Broeker Huis
 title-component: h1
 titleComponent: ComponentType
 ---
-Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Broek in Waterland, ligt Het Broeker Huis – sinds 1775 dé plek waar mensen samenkomen.
+Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Broek in Waterland, ligt **Het Broeker Huis** – sinds 1775 dé plek waar mensen samenkomen.
 
-Broek in Waterland is geen decor. Geen film, geen toneelstuk.
+**Broek in Waterland** is geen decor. Geen film, geen toneelstuk.
 
 Het is een écht verhaal – en wordt nog steeds verteld.
 
-Als dorpshuis, restaurant en vergader- en evenementenlocatie is Het Broeker Huis de hoofdrolspeler in dit levend sprookje.
+Als dorpshuis, **restaurant en vergader- en evenementenlocatie** is Het Broeker Huis de hoofdrolspeler in dit levend sprookje.
 
-Wandel, verdwaal, onthaast, kom thuis – Het Broeker Huis vertelt de rest.
+**Wandel, verdwaal, onthaast, kom thui**s – Het Broeker Huis vertelt de rest.
 
 #footer
   :::cta-button{arrow}
-  [Neem een kijkje binnen](#)
+  [Achter de gevel](/Het%20Broeker%20Huis)
   :::
 ::
 
@@ -67,16 +69,25 @@ background-position: bottom
 
 ::section-two-columns
 ---
-tagline: Van bruiloft tot borrel, van verjaardag tot jubileum – in Het Broeker
-  Huis vier je op jouw manier.
+tagline: Trouw. Vier. Herinner.
+taglineComponent: ComponentType
 title: Feestlocatie en trouwlocatie in Broek in Waterland
 title-component: h2
+titleComponent: ComponentType
 ---
-In ons monumentaal pand met romantische binnenplaats, karaktervolle zalen en alles wat je nodig hebt voor een dag om nooit te vergeten. Sfeervol, persoonlijk en precies wie je bent. Het is tenslotte jouw feestje.
+Of je nu ‘ja’ zegt, 21 wordt of 70 — sommige dagen verdienen een plek die klopt.
+
+Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een binnenplaats,** een houten vloer met krassen en **verhalen in de muren**.
+
+**Het Broeker Huis** is een plek om **groots te vieren**, zonder dik te hoeven te doen.
+
+Hoe je het ook viert – het is helemaal **jouw feestje**.
 
 #footer
   :::cta-button{arrow="true"}
-  [Bekijk de mogelijkheden](/Trouwen%20&%20Feesten)
+  [Jouw dag, jouw plek](/Trouwen%20&%20Feesten)
+  
+  Lees meer over trouwen en vieren in Het Broeker Huis
   :::
 
 #image
