@@ -37,6 +37,8 @@ Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Bro
 
 :br
 
+ 
+
 *Lees meer over Het Broeker Huis.*
 
 #footer
@@ -83,6 +85,8 @@ Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een
 
 :br
 
+ 
+
 *Lees meer over trouwen en vieren in Het Broeker Huis.*
 
 #footer
@@ -108,6 +112,8 @@ Wandel tot die tijd vooral binnen voor een kop koffie, een broodje of een stuk t
 
 :br
 
+ 
+
 *Benieuwd welke Broeker topchef er straks boven het vuur staat?*
 
 #footer
@@ -129,6 +135,8 @@ title: Vergaderen & workshops in Broek in Waterland
 **Vergaderen, trainen of creëren** op een plek die nooit voelt als werk. **Dichtbij de stad,** ver van hectiek, snel tot de kern.
 
 :br
+
+ 
 
 *Benieuwd wat je hier kunt organiseren?*
 
