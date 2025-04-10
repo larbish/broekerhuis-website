@@ -1,6 +1,8 @@
 <script lang="ts" setup>
+import type { ContentNavigationItem } from '@nuxt/content';
+
 const { items } = defineProps<{
-  items: any[]
+  items: ContentNavigationItem[]
 }>();
 
 const firstNavItems = computed(() => items.slice(0, Math.ceil(items.length / 2)));
@@ -12,7 +14,7 @@ const mobileMenu = ref(false);
 <template>
   <nav :class="['top-nav', { 'top-nav--open': mobileMenu }]">
     <div class="top-nav__items top-nav__items--left">
-      <div class="top-nav__item" v-for="item in firstNavItems" :key="item.path">
+      <div v-for="item in firstNavItems" :key="item.path" class="top-nav__item">
         <nuxt-link :to="item.path" class="top-nav__link">
           {{ item.title }}
         </nuxt-link>
@@ -35,9 +37,9 @@ const mobileMenu = ref(false);
     </div>
   </nav>
 
-  <div class="top-nav top-nav__mobile" v-if="mobileMenu">
+  <div v-if="mobileMenu" class="top-nav top-nav__mobile">
     <div class="top-nav__items--grid">
-      <div class="top-nav__item top-nav__item--mobile" v-for="item in items" :key="item.path">
+      <div v-for="item in items" :key="item.path" class="top-nav__item top-nav__item--mobile">
         <nuxt-link :to="item.path" class="top-nav__link top-nav__link--mobile">
           {{ item.title }}
         </nuxt-link>

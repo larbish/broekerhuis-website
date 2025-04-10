@@ -1,9 +1,11 @@
 <script setup lang="ts">
+import type { ContentNavigationItem } from '@nuxt/content';
+
 const { data } = await useAsyncData('navigation', async () => {
   const nav = await queryCollectionNavigation('content');
 
-  const flattenNav = (items) => {
-    return items.reduce((acc, item) => {
+  const flattenNav = (items: ContentNavigationItem[]) => {
+    return items.reduce((acc: ContentNavigationItem[], item: ContentNavigationItem) => {
       if (item.displayInTopNav === true) {
         acc.push(item);
       }
@@ -16,11 +18,11 @@ const { data } = await useAsyncData('navigation', async () => {
 
   const flatNav = flattenNav(nav);
 
-  const uniqueNav = flatNav.filter(
+  const uniqueNav: ContentNavigationItem[] = flatNav.filter(
     (item, index, self) => index === self.findIndex((t) => t.path === item.path)
   );
 
-  return uniqueNav.sort((a, b) => a.topNavOrder - b.topNavOrder);
+  return uniqueNav.sort((a, b) => (a.topNavOrder as number) - (b.topNavOrder as number));
 
 });
 
