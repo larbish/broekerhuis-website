@@ -20,11 +20,25 @@ tagline: Monumentaal vieren, vlakbij Amsterdam
 title: Trouw, feest, proost en zwaai uit
 ---
 #image
-**Het is jouw feestje**
+![2016-05-06-Sarah-Thomas-163.jpg](/Sarah_Thomas%20trouwen.png)
+::
 
-Je ceremonie onder de bomen op de romantische binnenplaats. Een borrel in de Trouwzaal. Afscheid in stilte. Een verjaardag die grondig uit de hand loopt. In Het Broeker Huis kan het allemaal.
+::section-intro
+---
+tagline: En als je wilt hangen wij de slingers op.
+taglineComponent: ComponentType
+title: Het is jouw feestje
+---
+In **Het Broeker Huis** – dé trouw- en feestlocatie van het mooiste dorp van Nederland – vier je alles wat telt: je ceremonie onder de bomen op **de romantische binnenplaats**. Een **borrel** in de Trouwzaal. **Afscheid** in stilte. **Een verjaardag** die grondig uit de hand loopt. Of gewoon omdat het kan. Bij ons ****mag (bijna) alles.
 
-Je viert op jouw manier – klein en uitbundig of groots en intiem. Zelf de slingers ophangen? Graag. Alles uit handen geven? Kan.
+Wat je ook viert, de vloer is van jou – klein en uitbundig of groots en intiem. Je oma als DJ? Graag. Alles uit handen geven? Kan.
 
-**Van toosten tot tranen – het is altijd jouw feestje.**
+**Van toosten tot tranen – en alles ertussen.**
+
+Hulp van onze feestfluisteraar?
+
+#footer
+  :::cta-button{arrow="true"}
+  [Bel Jeppe](<# Telefoonnummer Jep>)
+  :::
 ::
