@@ -18,7 +18,7 @@ topNav: false
 
 ::home-header
 #image
-![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/HOME/1.%20HOME_Hero_20250310_BROEKERHUIS_SCENERY_369_optimized_enhanced.jpg)
+![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/HOME/HOME_Hero_20250310_BROEKERHUIS_SCENERY_369_optimized_enhanced.jpg)
 ::
 
 ::section-intro
@@ -53,7 +53,7 @@ background: true
 background-position: bottom
 ---
 #Image_1
-![20250310\_BROEKERHUIS\_GROTEZAAL\_262\_optimized.jpg](/Grote%20Zaal/20250310_BROEKERHUIS_GROTEZAAL_262_optimized.jpg)
+![20250310\_BROEKERHUIS\_GROTEZAAL\_262\_optimized.jpg](/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_262_optimized.jpg)
 
 #Image_2
 ![Stijlvol dineren in de monumentale Regentessenkamer in het broeker huis aan een lange gedekte tafel met kroonluchter, wandornamenten en plafondornamenten.](/20250310_BROEKERHUIS_REGENTESSEKAMER_073.JPG)
@@ -66,7 +66,7 @@ background-position: bottom
 ::
 
 ::section-full-image{background}
-![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/HOME/3.%20HOME_H2_Trouwlocatie_20250310_BROEKERHUIS_GROTEZAAL_122_optimized_enhanced.jpg)
+![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/HOME/HOME_H2_Trouwlocatie_20250310_BROEKERHUIS_GROTEZAAL_122_optimized_enhanced.jpg)
 ::
 
 ::section-two-columns
@@ -95,7 +95,7 @@ Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een
   :::
 
 #image
-![20250310\_BROEKERHUIS\_GROTEZAAL\_262\_optimized.jpg](/Grote%20Zaal/20250310_BROEKERHUIS_GROTEZAAL_262_optimized.jpg)
+![20250310\_BROEKERHUIS\_GROTEZAAL\_262\_optimized.jpg](/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_262_optimized.jpg)
 ::
 
 ::section-two-columns
@@ -146,7 +146,7 @@ title: Vergaderen & workshops in Broek in Waterland
   :::
 
 #image
-![20250310\_BROEKERHUIS\_GROTEZAAL\_391\_optimized.jpg](/Grote%20Zaal/20250310_BROEKERHUIS_GROTEZAAL_391_optimized.jpg)
+![20250310\_BROEKERHUIS\_GROTEZAAL\_391\_optimized.jpg](/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_391_optimized.jpg)
 ::
 
 ::section-two-columns

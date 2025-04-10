@@ -38,27 +38,37 @@ const { background = false, reverse = false, titleComponent = 'h1', taglineCompo
   &__section {
     display: grid;
     grid-template-columns: subgrid;
+    row-gap: 2rem;
   }
 
   &__column {
     position: relative;
     z-index: 2;
 
-    &--content,
-    &--image {
-      grid-row: 1;
-    }
 
     &--content {
+      grid-row: 2;
       display: grid;
       align-items: center;
-      grid-column: 3 / span 9;
+      grid-column: 2 / -2;
       text-align: center;
+
+      @media (width > 768px) {
+        grid-column: 3 / span 9;
+      }
     }
 
     &--image {
-      grid-column: 14 / span 9;
-      aspect-ratio: 17 / 20;
+      grid-row: 1;
+      grid-column: 1 / -1;
+      aspect-ratio: 16 / 9;
+
+      @media (width > 768px) {
+        margin: 0;
+        grid-column: 14 / span 9;
+        aspect-ratio: 17 / 20;
+      }
+
 
       img {
         display: block;
@@ -68,12 +78,21 @@ const { background = false, reverse = false, titleComponent = 'h1', taglineCompo
       }
     }
 
-    .two-column__section--reverse &--content {
-      grid-column: 14 / span 9;
+    &--content,
+    &--image {
+      @media (width > 768px) {
+        grid-row: 1;
+      }
     }
 
-    .two-column__section--reverse &--image {
-      grid-column: 3 / span 9;
+    @media (width > 768px) {
+      .two-column__section--reverse &--content {
+        grid-column: 14 / span 9;
+      }
+
+      .two-column__section--reverse &--image {
+        grid-column: 3 / span 9;
+      }
     }
   }
 

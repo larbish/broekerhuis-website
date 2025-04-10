@@ -25,7 +25,7 @@ const hasBackground = computed<boolean>(() => typeof background === 'string' ? b
       width: 100%;
       left: 0;
       top: 0;
-      background-color: #B9B59F;
+      background-color: var(--color-secondary, #B9B59F);
     }
 
     &-top,

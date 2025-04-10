@@ -20,7 +20,7 @@ tagline: Monumentaal vieren, vlakbij Amsterdam
 title: Trouw, feest, proost en zwaai uit
 ---
 #image
-![2016-05-06-Sarah-Thomas-163.jpg](/Sarah_Thomas%20trouwen.png)
+![2016-05-06-Sarah-Thomas-163.jpg](/2016-05-06-Sarah-Thomas-163.jpg)
 ::
 
 ::section-intro
