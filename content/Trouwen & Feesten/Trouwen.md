@@ -96,6 +96,9 @@ Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste 
   :::cta-button{arrow="true"}
   [Plan een bakkie met Jeppe]()
   :::
+
+#image
+![HBH\_COLL\_3X4\_ALLESKANZELFSNIKS\_.png](/HBH_COLL_3X4_ALLESKANZELFSNIKS_.png)
 ::
 
 ::section-visual-transition
