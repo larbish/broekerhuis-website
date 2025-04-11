@@ -68,7 +68,7 @@ Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenp
 *Alvast een beetje dagdromen?*
 
 #image
-![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/Grote%20Zaal/20250310_BROEKERHUIS_GROTEZAAL_187_optimized.jpg)
+![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/BROEKERHUIS_COLLAGES_3x4_v1_SPACED.png)
 
 #footer
   :::cta-button{arrow="true"}
