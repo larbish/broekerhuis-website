@@ -43,18 +43,8 @@ Hulp van onze feestfluisteraar?
   :::
 ::
 
-::section-visual-transition
-#image_1
-![20250310\_BROEKERHUIS\_SCENERY\_477.JPG](/HOME/20250310_BROEKERHUIS_SCENERY_477.JPG)
-
-#image_2
-![20250310\_BROEKERHUIS\_GROTEZAAL\_146.JPG](/HOME/20250310_BROEKERHUIS_GROTEZAAL_146.JPG)
-
-#image_3
-![20250310\_BROEKERHUIS\_GROTEZAAL\_262\_optimized.jpg](/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_262_optimized.jpg)
-
-#image_4
-![20250310\_BROEKERHUIS\_GROTEZAAL\_411\_optimized.jpg](/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_411_optimized.jpg)
+::section-full-image{background="true" background-position="bottom"}
+![2016-05-06-Sarah-Thomas-307.jpg](/grote-zaal/2016-05-06-Sarah-Thomas-307.jpg)
 ::
 
 ::section-two-columns
@@ -86,10 +76,6 @@ Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenp
   :::
 ::
 
-::section-full-image
-![2016-05-06-Sarah-Thomas-307.jpg](/grote-zaal/2016-05-06-Sarah-Thomas-307.jpg)
-::
-
 ::section-two-columns
 ---
 reverse: true
@@ -112,10 +98,27 @@ Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste 
   :::
 ::
 
-::section-two-columns
+::section-visual-transition
 ---
 background: "true"
-backgroundPosition: full
+backgroundPosition: top
+---
+#image_1
+![20250310\_BROEKERHUIS\_SCENERY\_477.JPG](/HOME/20250310_BROEKERHUIS_SCENERY_477.JPG)
+
+#image_2
+![20250310\_BROEKERHUIS\_GROTEZAAL\_146.JPG](/HOME/20250310_BROEKERHUIS_GROTEZAAL_146.JPG)
+
+#image_3
+![20250310\_BROEKERHUIS\_GROTEZAAL\_262\_optimized.jpg](/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_262_optimized.jpg)
+
+#image_4
+![20250310\_BROEKERHUIS\_GROTEZAAL\_411\_optimized.jpg](/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_411_optimized.jpg)
+::
+
+::section-two-columns
+---
+backgroundPosition: bottom
 tagline: Jouw prijskaartje.
 title: Wat kost dat, trouwen en feesten in Broek?
 titleComponent: ComponentType
