@@ -130,7 +130,7 @@ titleComponent: ComponentType
 Laat het plannen beginnen.
 
 #image
-![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/Grote%20Zaal/20250310_BROEKERHUIS_GROTEZAAL_187_optimized.jpg)
+![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/COLLAGES/TINYFIED_COLLAGES/BROEKERHUIS_COLLAGES_1.png)
 
 #footer
   :::cta-button{arrow="true"}
