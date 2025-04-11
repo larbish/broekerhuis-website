@@ -49,6 +49,12 @@ Hulp van onze feestfluisteraar?
 
 #image_2
 ![20250310\_BROEKERHUIS\_GROTEZAAL\_146.JPG](/HOME/20250310_BROEKERHUIS_GROTEZAAL_146.JPG)
+
+#image_3
+![20250310\_BROEKERHUIS\_GROTEZAAL\_262\_optimized.jpg](/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_262_optimized.jpg)
+
+#image_4
+![20250310\_BROEKERHUIS\_GROTEZAAL\_411\_optimized.jpg](/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_411_optimized.jpg)
 ::
 
 ::section-two-columns
@@ -78,6 +84,10 @@ Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenp
   :::cta-button{arrow="true"}
   [Bekijk de zalen](#)
   :::
+::
+
+::section-full-image
+![2016-05-06-Sarah-Thomas-307.jpg](/grote-zaal/2016-05-06-Sarah-Thomas-307.jpg)
 ::
 
 ::section-two-columns
