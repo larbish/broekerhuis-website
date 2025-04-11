@@ -89,16 +89,16 @@ Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenp
 
 **Trouwzaal (60 m²)** – licht en open, vaak gebruikt als trouwzaal, kinderhoek of buffetruimte.
 
-**Binnenplaats (240 m²)** – ons pièce de résistance. Trouw onder de bomen, borrel aan lange tafels in de zon, of toost bij kaarslicht.
+**Binnenplaats (240 m²)** – ons pièce de résistance. Trouw onder de bomen, borrel aan lange tafels in de zon, of toost bij kaarslicht. Van twintig gasten aan tafel tot tweehonderd op de dansvloer – bij ons past het.
 
-Van twintig gasten aan tafel tot tweehonderd op de dansvloer – bij ons past het.
+*Alvast een beetje dagdromen?*
 
 #image
 ![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/Grote%20Zaal/20250310_BROEKERHUIS_GROTEZAAL_187_optimized.jpg)
 
 #footer
   :::cta-button{arrow="true"}
-  [Zie alle zalen](#)
+  [Bekijk de zalen](#)
   :::
 ::
 
@@ -113,9 +113,9 @@ titleComponent: ComponentType
 ---
 **Geen standaardfeesten – dus geen standaardprijzen.** Niet in **Het Broeker Huis.**
 
-**Toosten, trouwen of je verjaardag vieren**: je wilt weten waar je aan toe bent. Snappen we. Daarom sturen we je graag een **snelle, vrijblijvende prijsindicatie**. Gebaseerd op je plannen, het aantal feestvierders en de ruimte(s) die je nodig hebt.
+**Toosten, trouwen of je verjaardag vieren**: je wilt weten waar je aan toe bent. Snappen we. Daarom sturen we je graag een **snelle, vrijblijvende prijsindicatie**. Gebaseerd op je plannen, het aantal feestvierders en de ruimte(s) die je nodig hebt.Zonder opdringerig belletje of offerteverplichtingen. Gewoon een helder beginpunt.
 
-Zonder opdringerig belletje of offerteverplichtingen. Gewoon een helder beginpunt.
+Laat het plannen beginnen.
 
 #image
 ![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/Grote%20Zaal/20250310_BROEKERHUIS_GROTEZAAL_187_optimized.jpg)
