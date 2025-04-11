@@ -88,7 +88,7 @@ title: Alles kan. Zelfs niks.
 
 Liever alles geregeld? Tuurlijk. Terwijl jij een dorpswandeling maakt of bijkomt van de speech van je dronken oom, zetten wij het buffet klaar of serveren we vijf gangen.
 
-Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste dromen je eigen menu – altijd ambachtelijk, nooit moeilijk. Onze bediening weet wanneer ze stil moeten zijn, en wanneer het tijd is voor Broeker gezelligheid. Van fotograaf tot DJ, van styling tot nanny – en alles wat je nooit wist dat je was vergeten.
+Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste dromen je eigen menu – altijd ambachtelijk, nooit moeilijk. Onze bediening weet wanneer ze stil moeten zijn, en wanneer het tijd is voor Broeker gezelligheid. Van fotograaf tot DJ, styling tot nanny – en alles wat je nooit wist dat je was vergeten.
 
 *Potje sparren?*
 
