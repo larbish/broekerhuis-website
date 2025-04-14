@@ -40,7 +40,7 @@ const mobileMenu = ref(false);
   <div v-if="mobileMenu" class="top-nav top-nav__mobile">
     <div class="top-nav__items--grid">
       <div v-for="item in items" :key="item.path" class="top-nav__item top-nav__item--mobile">
-        <nuxt-link :to="item.path" class="top-nav__link top-nav__link--mobile">
+        <nuxt-link :to="item.path" class="top-nav__link top-nav__link--mobile" @click="mobileMenu = false">
           {{ item.title }}
         </nuxt-link>
       </div>
