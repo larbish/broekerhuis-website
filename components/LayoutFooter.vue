@@ -3,8 +3,8 @@
     <div class="footer__top">
       <SvgoHetBroekerHuisWordmark :font-controlled="false" class="logo__wordmark footer__logo" />
       <div class="footer__contact">
-        <a href="mailto:info@broekerhuis.nl" class="footer__link footer__link--large" target="_blank"
-          rel="noopener noreferrer">info@broekerhuis.nl</a>
+        <a href="mailto:contact@broekerhuis.nl" class="footer__link footer__link--large" target="_blank"
+          rel="noopener noreferrer">contact@broekerhuis.nl</a>
         <a href="tel:+31204031314" class="footer__link footer__link--large" target="_blank"
           rel="noopener noreferrer">020-4031314</a>
         <SvgoInstagram class="footer__icon footer__icon--instagram" />
@@ -33,7 +33,7 @@
           <a href="tel:+31204031314" target="_blank" rel="noopener noreferrer">020 403 1314</a><br />
           <br />
           [Whatsapp]<br />
-          <a href="mailto:info@broekerhuis.nl">info@broekerhuis.nl</a>
+          <a href="mailto:contact@broekerhuis.nl">contact@broekerhuis.nl</a>
         </ProseP>
       </div>
 
