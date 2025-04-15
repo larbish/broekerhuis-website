@@ -58,8 +58,6 @@ defineProps<{
     letter-spacing: -1.92px;
     font-weight: 500;
 
-
-
     @media (width > 768px) {
       grid-column: 3 / span 7;
       bottom: 15%;
@@ -81,7 +79,6 @@ defineProps<{
       display: block;
       width: 100%;
       height: 50%;
-      ;
     }
 
     &:after {
