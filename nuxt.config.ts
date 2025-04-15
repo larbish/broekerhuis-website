@@ -15,6 +15,7 @@ export default defineNuxtConfig({
             wght: "350..600",
           },
           Inter: {
+            ital: "400..700",
             wght: "400..700",
           },
           "Reenie+Beanie": {
