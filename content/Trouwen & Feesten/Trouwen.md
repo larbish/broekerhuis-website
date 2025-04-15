@@ -26,7 +26,7 @@ title: Trouw, feest, proost en zwaai uit
 ::section-intro
 ---
 tagline: En als je wilt, hangen wij de slingers op.
-taglineComponent: ComponentType
+taglineComponent: h3
 title: Het is jouw feestje
 ---
 In **Het Broeker Huis** – dé trouw- en feestlocatie van het mooiste dorp van Nederland – vier je alles wat telt: je ceremonie onder de bomen op **de romantische binnenplaats**. Een **borrel** in de Trouwzaal. **Afscheid** in stilte. **Een verjaardag** die grondig uit de hand loopt. Of **gewoon omdat het kan**. Bij ons mag (bijna) alles.
@@ -53,7 +53,7 @@ background: "true"
 backgroundPosition: full
 tagline: Elke zaal een verhaal.
 title: Onze trouw- en feestzalen
-titleComponent: ComponentType
+titleComponent: h2
 ---
 Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenplaats** en een gigantische, **sprookjesachtige tuin: Broek in Waterland**. Elke zaal heeft zijn eigen sfeer, allemaal flexibel in te delen en te combineren – voor bruiloften, feesten, diners of afscheidsceremonies.
 
@@ -124,7 +124,7 @@ backgroundPosition: top
 backgroundPosition: bottom
 tagline: Jouw prijskaartje.
 title: Wat kost dat, trouwen en feesten in Broek?
-titleComponent: ComponentType
+titleComponent: h2
 ---
 **Geen standaardfeesten – dus geen standaardprijzen.** Niet in **Het Broeker Huis.**
 
