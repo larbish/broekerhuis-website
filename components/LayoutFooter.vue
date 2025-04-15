@@ -7,21 +7,20 @@
           rel="noopener noreferrer">contact@broekerhuis.nl</a>
         <a href="tel:+31204031314" class="footer__link footer__link--large" target="_blank"
           rel="noopener noreferrer">020-4031314</a>
-        <SvgoInstagram class="footer__icon footer__icon--instagram" />
 
         <div class="footer__opening-hours">
           <ProseP><strong>Wo - Zo van 10:00 - 00:00 uur</strong><br />
-            Maandag & dinsdag gesloten voor lunch en diner - maar altijd bereikbaar voor je wildste plannen.</ProseP>
-
-          <ProseP>Plan direct een afspraak met Jeppe of Thomas.</ProseP>
+            Maandag & dinsdag altijd beschikbaar. <a href="mailto:contact@broekerhuis.nl">Maak een afspraak.</a>
+          </ProseP>
         </div>
       </div>
     </div>
     <div class="footer__bottom">
       <div class="footer__column footer__column--wide">
-        <ProseP>Het Broeker Huis is sinds 1775 het hart van Broek in Waterland. Vandaag zijn we dorpshuis, restaurant,
-          trouwlocatie, vergaderplek en B&B - op 15 minuten van Amsterdam. Een monumentaal pand in het mooiste dorp
-          van Nederland. Kom eten, vieren, werken en slapen. We zijn alleen voor iedereen.
+        <ProseP>Het Broeker Huis is sinds 1775 het hart van Broek in Waterland. Vandaag zijn we restaurant,
+          trouwlocatie, feestlocatie vergaderlocatie en B&B in één. Een monumentaal pand in het mooiste dorp van
+          Nederland - vlakbij Amsterdam. Kom eten, vieren, werken, vergaderen en slapen. Ongedwongen, zonder poeha, op
+          jouw manier.
         </ProseP>
       </div>
 
@@ -32,7 +31,6 @@
           1151 AL Broek in Waterland <br />
           <a href="tel:+31204031314" target="_blank" rel="noopener noreferrer">020 403 1314</a><br />
           <br />
-          [Whatsapp]<br />
           <a href="mailto:contact@broekerhuis.nl">contact@broekerhuis.nl</a>
         </ProseP>
       </div>
@@ -40,12 +38,25 @@
       <div class="footer__column">
         <h4 class="footer__title">Snel naar</h4>
         <ul>
-          <li>Restaurant in Broek in Waterland </li>
-          <li>Feestlocatie & trouwlocatie </li>
-          <li>Vergaderlocatie & workshops </li>
-          <li>Hotelkamers & overnachten </li>
-          <li>Broek in Waterland </li>
-          <li>Over Het Broeker Huis </li>
+          <li class="footer__item"><nuxt-link class="footer__link" to="/restaurant">Restaurant</nuxt-link></li>
+          <li class="footer__item"><nuxt-link class="footer__link" to="/trouwen-and-feesten/trouwen">Trouwen &
+              Feesten</nuxt-link></li>
+          <li class="footer__item"><nuxt-link class="footer__link" to="/zakelijk">Zakelijk</nuxt-link></li>
+          <li class="footer__item"><nuxt-link class="footer__link" to="/het-broeker-huis">Over ons</nuxt-link></li>
+          <li class="footer__item"><nuxt-link class="footer__link" to="/broek-in-waterland">Broek in
+              Waterland</nuxt-link></li>
+          <li class="footer__item"><nuxt-link class="footer__link" to="/voor-broekers">Voor Broekers</nuxt-link></li>
+        </ul>
+      </div>
+
+      <div class="footer__column">
+        <h4 class="footer__title">Ook handig</h4>
+        <ul>
+          <li class="footer__item"><a class="footer__link" href="mailto:contact@broekerhuis.nl">Mail ons</a></li>
+          <li class="footer__item"><nuxt-link class="footer__link" to="/het-broeker-huis">Parkeren in broek in
+              Waterland</nuxt-link></li>
+          <li class="footer__item"><nuxt-link class="footer__link" to="/het-broeker-huis">Toegankelijkheid</nuxt-link>
+          </li>
         </ul>
       </div>
     </div>
@@ -102,13 +113,13 @@
   &__link {
     font-family: var(--base-font-family);
     color: var(--color-primary, #2E322D);
-    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
     }
 
     &--large {
+      text-decoration: none;
       font-family: var(--title-font-family);
       font-size: 2rem;
     }
@@ -127,7 +138,7 @@
 
   &__opening-hours {
     text-align: right;
-    max-width: 360px;
+    max-width: 440px;
     margin-top: 1rem;
 
     p {
@@ -140,21 +151,17 @@
     grid-column: 1 / -1;
     grid-template-columns: subgrid;
     row-gap: 2rem;
+
+    @media (width > 768px) {
+      gap: 1rem;
+    }
   }
 
   &__column {
     grid-column: 2 / -2;
 
     @media (width > 768px) {
-      grid-column: span 6;
-
-      &:nth-child(2) {
-        grid-column: 8 / span 5;
-      }
-
-      &:nth-child(3) {
-        grid-column: 14 / span 5;
-      }
+      grid-column: span 4;
     }
 
   }
