@@ -39,7 +39,7 @@ Wat je ook viert, ons Huis is van jou.
 
 #footer
   :::cta-button{arrow="true"}
-  [Hier vind je ons](</Het Broeker Huis>)
+  [Hier vind je ons](/Het%20Broeker%20Huis)
   :::
 ::
 
