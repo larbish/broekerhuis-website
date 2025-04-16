@@ -5,7 +5,7 @@ description: Vier je bruiloft, verjaardag, afscheid of jubileum in een
 navigation:
   title: Trouwen & Feesten
   displayInTopNav: true
-  topNavOrder: 20
+  topNavOrder: 9
   description: Vieren op een plek met smoel.
 seo:
   title: Trouwen of feesten in Broek in Waterland | Het Broeker Huis
