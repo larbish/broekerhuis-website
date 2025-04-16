@@ -35,11 +35,11 @@ Wat je ook viert, ons Huis is van jou.
 
 **Van toosten tot tranen – en alles ertussen.**
 
-Hulp van onze feestfluisteraar?
+*Wip vooral even binnen*
 
 #footer
   :::cta-button{arrow="true"}
-  [Bel Jeppe](tel:+31204031314)
+  [Hier vind je ons](</Het Broeker Huis>)
   :::
 ::
 
@@ -65,14 +65,14 @@ Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenp
 
 **Binnenplaats (240 m²)** – ons pièce de résistance. Trouw onder de bomen, borrel aan lange tafels in de zon, of toost bij kaarslicht. Van twintig gasten aan tafel tot tweehonderd op de dansvloer – bij ons past het.
 
-*Wip vooral spontaan langs.*
+*Hulp van onze feestfluisteraar?*
 
 #image
 ![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/BROEKERHUIS_COLLAGES_3x4_v1_SPACED.png)
 
 #footer
   :::cta-button{arrow="true"}
-  [Hier vind je ons](https://maps.app.goo.gl/AmoddNoNsqGFCc649)
+  [Bel Jeppe](\(tel:+31204031314\))
   :::
 ::
 
