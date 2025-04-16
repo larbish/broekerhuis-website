@@ -18,7 +18,7 @@ topNav: false
 
 ::home-header
 #image
-![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/HOME/HOME_Hero_20250310_BROEKERHUIS_SCENERY_369_optimized_enhanced.jpg)
+![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/20250331_BROEKERHUIS_1550.JPG)
 ::
 
 ::section-intro
@@ -52,16 +52,16 @@ background: true
 background-position: bottom
 ---
 #Image_1
-![20250310\_BROEKERHUIS\_GROTEZAAL\_262\_optimized.jpg](/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_262_optimized.jpg)
+![20250310\_BROEKERHUIS\_GROTEZAAL\_262\_optimized.jpg](/20250310_BROEKERHUIS_GROTEZAAL_262.JPG)
 
 #Image_2
-![Stijlvol dineren in de monumentale Regentessenkamer in het broeker huis aan een lange gedekte tafel met kroonluchter, wandornamenten en plafondornamenten.](/20250310_BROEKERHUIS_REGENTESSEKAMER_073.JPG)
+![Stijlvol dineren in de monumentale Regentessenkamer in het broeker huis aan een lange gedekte tafel met kroonluchter, wandornamenten en plafondornamenten.](/20250310_BROEKERHUIS_GROTEZAAL_237.JPG)
 
 #Image_3
-![20250310\_BROEKERHUIS\_REGENTESSEKAMER\_354\_optimized.jpg](/20250310_BROEKERHUIS_REGENTESSEKAMER_354_optimized.jpg)
+![20250310\_BROEKERHUIS\_REGENTESSEKAMER\_354\_optimized.jpg](/20250310_BROEKERHUIS_SCENERY_155.JPG)
 
 #Image_4
-![Glazen en flessen wijn op een gedekte tafel met wit tafelkleed  in zachte belichting en mooie schaduwval](/20250310_BROEKERHUIS_REGENTESSEKAMER_395_optimized.jpg)
+![Glazen en flessen wijn op een gedekte tafel met wit tafelkleed  in zachte belichting en mooie schaduwval](/20250310_BROEKERHUIS_REGENTESSENKAMER_073.JPG)
 ::
 
 ::section-full-image{background}
