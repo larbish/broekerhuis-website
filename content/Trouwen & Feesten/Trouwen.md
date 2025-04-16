@@ -38,9 +38,10 @@ Wat je ook viert, ons Huis is van jou.
 *Wip vooral even binnen*
 
 #footer
-  :::cta-button{arrow="true"}
-  [Hier vind je ons](/Het%20Broeker%20Huis)
-  :::
+    :::cta-button{arrow="true"}
+<a href="https://maps.app.goo.gl/tmLbzzFtMY7yYMLC8" target="_blank" rel="noopener noreferrer">
+  Hier vind je ons
+</a>
 ::
 
 ::section-full-image{background="true" background-position="bottom"}
