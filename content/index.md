@@ -42,7 +42,7 @@ Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Bro
 
 #footer
   :::cta-button{arrow}
-  [Achter de gevel](/Het%20Broeker%20Huis)
+  [Achter de gevel](</Het Broeker Huis>)
   :::
 ::
 
