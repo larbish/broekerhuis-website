@@ -38,7 +38,7 @@ Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Bro
 
  
 
-*Lees meer over Het Broeker Huis.*
+*Lees meer over Het Broeker Huis en zijn hoeders.*
 
 #footer
   :::cta-button{arrow}
