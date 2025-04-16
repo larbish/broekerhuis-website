@@ -64,10 +64,6 @@ background-position: bottom
 ![Glazen en flessen wijn op een gedekte tafel met wit tafelkleed  in zachte belichting en mooie schaduwval](/20250310_BROEKERHUIS_REGENTESSENKAMER_073.JPG)
 ::
 
-::section-full-image{background}
-![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/20250310_BROEKERHUIS_GROTEZAAL_160.JPG)
-::
-
 ::section-two-columns
 ---
 tagline: Trouw. Vier. Herinner.
@@ -121,6 +117,10 @@ Wandel tot die tijd vooral binnen voor een kop koffie, een broodje of een stuk t
 
 #image
 ![vuurkoken.jpg](/20250331_BROEKERHUIS_1815.JPG)
+::
+
+::section-full-image{background}
+![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/20250310_BROEKERHUIS_GROTEZAAL_160.JPG)
 ::
 
 ::section-two-columns
