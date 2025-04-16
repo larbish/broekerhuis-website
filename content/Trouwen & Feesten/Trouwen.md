@@ -20,7 +20,7 @@ tagline: Monumentaal vieren, vlakbij Amsterdam
 title: Trouw, feest, proost en zwaai uit
 ---
 #image
-![2016-05-06-Sarah-Thomas-163.jpg](/Sarah_Thomas%20trouwen.png)
+![2016-05-06-Sarah-Thomas-163.jpg](/2016-05-06-Sarah-Thomas-163.jpg)
 ::
 
 ::section-intro
@@ -43,8 +43,22 @@ Hulp van onze feestfluisteraar?
   :::
 ::
 
-::section-full-image{background="true" background-position="bottom"}
-![2016-05-06-Sarah-Thomas-307.jpg](/grote-zaal/2016-05-06-Sarah-Thomas-307.jpg)
+::section-visual-transition
+---
+background: "true"
+backgroundPosition: full
+---
+#image_1
+![20250310\_BROEKERHUIS\_SCENERY\_477.JPG](/20250310_BROEKERHUIS_GROTEZAAL_093.JPG)
+
+#image_2
+![20250310\_BROEKERHUIS\_GROTEZAAL\_146.JPG](/466462501_10230167124740028_3729934081704551018_n.JPG)
+
+#image_3
+![20250310\_BROEKERHUIS\_GROTEZAAL\_262\_optimized.jpg](/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_262_optimized.jpg)
+
+#image_4
+![20250310\_BROEKERHUIS\_GROTEZAAL\_411\_optimized.jpg](/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_411_optimized.jpg)
 ::
 
 ::section-two-columns
@@ -68,7 +82,7 @@ Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenp
 *Bespreken welke ruimte(n) bij jouw feest past?*
 
 #image
-![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/BROEKERHUIS_COLLAGES_3x4_v1_SPACED.png)
+![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/20250310_BROEKERHUIS_GROTEZAAL_093.JPG)
 
 #footer
   :::cta-button{arrow="true"}
@@ -98,25 +112,11 @@ Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste 
   :::
 
 #image
-![HBH\_COLL\_3X4\_ALLESKANZELFSNIKS\_.png](/HBH_COLL_3X4_ALLESKANZELFSNIKS_.png)
+![HBH\_COLL\_3X4\_ALLESKANZELFSNIKS\_.png](/20250331_BROEKERHUIS_1617.JPG)
 ::
 
-::section-visual-transition
----
-background: "true"
-backgroundPosition: top
----
-#image_1
-![20250310\_BROEKERHUIS\_SCENERY\_477.JPG](/HOME/20250310_BROEKERHUIS_SCENERY_477.JPG)
-
-#image_2
-![20250310\_BROEKERHUIS\_GROTEZAAL\_146.JPG](/HOME/20250310_BROEKERHUIS_GROTEZAAL_146.JPG)
-
-#image_3
-![20250310\_BROEKERHUIS\_GROTEZAAL\_262\_optimized.jpg](/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_262_optimized.jpg)
-
-#image_4
-![20250310\_BROEKERHUIS\_GROTEZAAL\_411\_optimized.jpg](/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_411_optimized.jpg)
+::section-full-image{background="true" background-position="bottom"}
+![2016-05-06-Sarah-Thomas-307.jpg](/HBH_COLL_ZALEN_16X9.png)
 ::
 
 ::section-two-columns
@@ -133,10 +133,10 @@ titleComponent: h2
 Laat het plannen beginnen.
 
 #image
-![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/COLLAGES/TINYFIED_COLLAGES/BROEKERHUIS_COLLAGES_1.png)
+![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/20250310_BROEKERHUIS_REGENTESSENKAMER_073.JPG)
 
 #footer
   :::cta-button{arrow="true"}
-  [Vliegensvlug een prijsindicatie](#)
+  [Vliegensvlug een prijsindicatie](https://forms.gle/VhwGZtpg4k52Kru89)
   :::
 ::
