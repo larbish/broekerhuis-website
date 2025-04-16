@@ -66,6 +66,8 @@ background-position: bottom
 
 ::section-two-columns
 ---
+background: "true"
+backgroundPosition: full
 tagline: Trouw. Vier. Herinner.
 taglineComponent: h3
 title: Feestlocatie en trouwlocatie in Broek in Waterland
@@ -95,7 +97,8 @@ Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een
 ::section-two-columns
 ---
 reverse: true
-backgroundPosition: top
+background: "true"
+backgroundPosition: full
 tagline: Vuurwerk. Bijna open.
 taglineComponent: h3
 title: Restaurant in Broek in Waterland
@@ -116,7 +119,7 @@ Wandel tot die tijd vooral binnen voor een kop koffie, een broodje of een stuk t
   :::
 
 #image
-![vuurkoken.jpg](/20250331_BROEKERHUIS_1815.JPG)
+![vuurkoken.jpg](/20250331_BROEKERHUIS_0930.JPG)
 ::
 
 ::section-full-image{background}
@@ -154,13 +157,13 @@ tagline: Dromers, nog even wakker blijven.
 taglineComponent: h3
 title: Overnachten in Broek in Waterland
 ---
-Vanaf zomer 2025 slaap je bij ons in stijl en word je wakker in het sprookje. Een persoonlijke B\&B met karakter, midden in het mooiste dorp van Nederland – vlakbij Amsterdam.
+Vanaf **zomer 2025 slaap** je bij ons in stijl en word je wakker in het sprookje. Een **persoonlijke B\&B** met karakter, midden in **het mooiste dorp van Nederland** – vlakbij Amsterdam.
 
 :br
 
  
 
-Als eerste weten wanneer je kunt boeken?
+*Als eerste weten wanneer je kunt boeken?*
 
 #footer
   :::cta-button{arrow="true"}
@@ -168,5 +171,5 @@ Als eerste weten wanneer je kunt boeken?
   :::
 
 #image
-![20250331\_BROEKERHUIS\_1492.JPG](/20250331_BROEKERHUIS_1492.JPG)
+![20250331\_BROEKERHUIS\_1492.JPG](/images/20250310_BROEKERHUIS_REGENTESSENKAMER_013.JPG)
 ::
