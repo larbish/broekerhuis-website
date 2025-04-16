@@ -164,7 +164,7 @@ Als eerste weten wanneer je kunt boeken?
 
 #footer
   :::cta-button{arrow="true"}
-  [Mail Jeppe](/)
+  [We mailen je](https://forms.gle/7cJ2YcZefs9f5PJu5)
   :::
 
 #image
