@@ -43,22 +43,8 @@ Hulp van onze feestfluisteraar?
   :::
 ::
 
-::section-visual-transition
----
-background: "true"
-backgroundPosition: full
----
-#image_1
-![20250310\_BROEKERHUIS\_SCENERY\_477.JPG](/20250310_BROEKERHUIS_GROTEZAAL_093.JPG)
-
-#image_2
-![20250310\_BROEKERHUIS\_GROTEZAAL\_146.JPG](/466462501_10230167124740028_3729934081704551018_n.JPG)
-
-#image_3
-![20250310\_BROEKERHUIS\_GROTEZAAL\_262\_optimized.jpg](/20250310_BROEKERHUIS_GROTEZAAL_250.JPG)
-
-#image_4
-![20250310\_BROEKERHUIS\_GROTEZAAL\_411\_optimized.jpg](/20250310_BROEKERHUIS_GROTEZAAL_095.JPG)
+::section-full-image{background="true" background-position="top"}
+![2016-05-06-Sarah-Thomas-307.jpg](/HBH_COLL_ZALEN_16X9.png)
 ::
 
 ::section-two-columns
@@ -82,7 +68,7 @@ Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenp
 *Bespreken welke ruimte(n) bij jouw feest past?*
 
 #image
-![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/20250310_BROEKERHUIS_GROTEZAAL_093.JPG)
+![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/466686941_10230167123299992_4849252139870361658_n.JPG)
 
 #footer
   :::cta-button{arrow="true"}
@@ -115,8 +101,22 @@ Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste 
 ![HBH\_COLL\_3X4\_ALLESKANZELFSNIKS\_.png](/20250331_BROEKERHUIS_1617.JPG)
 ::
 
-::section-full-image{background="true" background-position="bottom"}
-![2016-05-06-Sarah-Thomas-307.jpg](/HBH_COLL_ZALEN_16X9.png)
+::section-visual-transition
+---
+background: "true"
+backgroundPosition: top
+---
+#image_1
+![20250310\_BROEKERHUIS\_SCENERY\_477.JPG](/20250310_BROEKERHUIS_GROTEZAAL_093.JPG)
+
+#image_2
+![20250310\_BROEKERHUIS\_GROTEZAAL\_146.JPG](/20250331_BROEKERHUIS_0825.JPG)
+
+#image_3
+![20250310\_BROEKERHUIS\_GROTEZAAL\_262\_optimized.jpg](/20250310_BROEKERHUIS_GROTEZAAL_250.JPG)
+
+#image_4
+![20250310\_BROEKERHUIS\_GROTEZAAL\_411\_optimized.jpg](/20250310_BROEKERHUIS_GROTEZAAL_095.JPG)
 ::
 
 ::section-two-columns
