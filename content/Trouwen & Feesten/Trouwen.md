@@ -43,7 +43,7 @@ Hulp van onze feestfluisteraar?
   :::
 ::
 
-::section-full-image{background="true" backgroundPosition="bottom"}
+::section-full-image{background="true" background-position="bottom"}
 ![2016-05-06-Sarah-Thomas-307.jpg](/HBH_COLL_ZALEN_16X9.png)
 ::
 
