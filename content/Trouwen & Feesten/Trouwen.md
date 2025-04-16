@@ -44,7 +44,7 @@ Hulp van onze feestfluisteraar?
 ::
 
 ::section-full-image{background="true" background-position="bottom"}
-![2016-05-06-Sarah-Thomas-307.jpg](/HBH_COLL_ZALEN_16X9.png)
+![2016-05-06-Sarah-Thomas-307.jpg](/466686941_10230167123299992_4849252139870361658_n.JPG)
 ::
 
 ::section-two-columns
@@ -65,14 +65,14 @@ Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenp
 
 **Binnenplaats (240 m²)** – ons pièce de résistance. Trouw onder de bomen, borrel aan lange tafels in de zon, of toost bij kaarslicht. Van twintig gasten aan tafel tot tweehonderd op de dansvloer – bij ons past het.
 
-*Bespreken welke ruimte(n) bij jouw feest past?*
+*Wip vooral spontaan langs.*
 
 #image
-![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/466686941_10230167123299992_4849252139870361658_n.JPG)
+![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/BROEKERHUIS_COLLAGES_3x4_v1_SPACED.png)
 
 #footer
   :::cta-button{arrow="true"}
-  [Plan een date met Jeppe](mailto\:trouwen@broekerhuis.nl?subject=We%20hebben%20je%20hulp%20nodig\&body=Hi%20Jeppe%2C%0A%0AWe%20zijn%20benieuwd%20of%20Het%20Broeker%20Huis%20d%C3%A9%20locatie%20is%20die%20bij%20mij%2Fons%20past%20om%20op%20of%20rond%20%7Bdatum%7D%20een%20%7Bzeg%20't%20maar!%7D%20te%20vieren.%20%0A%0AEen%20site%20is%20leuk%2C%20maar%20een%20locatie%20moet%20gevoeld%20worden.%Kunnen%20we%20een%20kop%20koffie%20bij%20je%20komen%20drinken%2C%20goed%20rondkijken%20en%20je%20het%20hemd%20van%20het%20lijf%20vragen%3F%20%0A%0AOp%20%7Bdatum%2C%20tijd%7D%20en%20%7Bdatum%2C%20tijd%7D%20of%20%7Bdatum%2C%20tijd%7D%20past%20ons%20goed.%0A%0AZit%20daar%20iets%20tussen%20voor%20je%3F%0A%0ATot%20snel%2C%0A%0A%7BNaam%7D)
+  [Hier vind je ons](https://maps.app.goo.gl/AmoddNoNsqGFCc649)
   :::
 ::
 
@@ -94,7 +94,7 @@ Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste 
 
 #footer
   :::cta-button{arrow="true"}
-  [Plan een bakkie met Jeppe]()
+  [Plan een bakkie met Jeppe](mailto\:trouwen@broekerhuis.nl?subject=We%20hebben%20je%20hulp%20nodig\&body=Hi%20Jeppe%2C%0A%0AWe%20zijn%20benieuwd%20of%20Het%20Broeker%20Huis%20d%C3%A9%20locatie%20is%20die%20bij%20mij%2Fons%20past%20om%20op%20of%20rond%20%7Bdatum%7D%20een%20%7Bzeg%20't%20maar!%7D%20te%20vieren.%20%0A%0AEen%20site%20is%20leuk%2C%20maar%20een%20locatie%20moet%20gevoeld%20worden.%Kunnen%20we%20een%20kop%20koffie%20bij%20je%20komen%20drinken%2C%20goed%20rondkijken%20en%20je%20het%20hemd%20van%20het%20lijf%20vragen%3F%20%0A%0AOp%20%7Bdatum%2C%20tijd%7D%20en%20%7Bdatum%2C%20tijd%7D%20of%20%7Bdatum%2C%20tijd%7D%20past%20ons%20goed.%0A%0AZit%20daar%20iets%20tussen%20voor%20je%3F%0A%0ATot%20snel%2C%0A%0A%7BNaam%7D)
   :::
 
 #image
