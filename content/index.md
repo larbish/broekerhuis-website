@@ -115,7 +115,7 @@ Wandel tot die tijd vooral binnen voor een kop koffie, een broodje of een stuk t
 
 #footer
   :::cta-button{arrow="true"}
-  [Proef alvast sfeer](/Restaurant)
+  [Proef alvast sfeer](/restaurant)
   :::
 
 #image
