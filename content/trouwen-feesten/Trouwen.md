@@ -95,7 +95,7 @@ Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste 
 
 #footer
   :::cta-button{arrow="true"}
-  [Plan een bakkie met Jeppe](mailto\:trouwen@broekerhuis.nl?subject=We%20hebben%20je%20hulp%20nodig\&body=Hi%20Jeppe%2C%0A%0AWe%20zijn%20benieuwd%20of%20Het%20Broeker%20Huis%20d%C3%A9%20locatie%20is%20die%20bij%20mij%2Fons%20past%20om%20op%20of%20rond%20%7Bdatum%7D%20een%20%7Bzeg%20't%20maar!%7D%20te%20vieren.%20%0A%0AEen%20site%20is%20leuk%2C%20maar%20een%20locatie%20moet%20gevoeld%20worden.%Kunnen%20we%20een%20kop%20koffie%20bij%20je%20komen%20drinken%2C%20goed%20rondkijken%20en%20je%20het%20hemd%20van%20het%20lijf%20vragen%3F%20%0A%0AOp%20%7Bdatum%2C%20tijd%7D%20en%20%7Bdatum%2C%20tijd%7D%20of%20%7Bdatum%2C%20tijd%7D%20past%20ons%20goed.%0A%0AZit%20daar%20iets%20tussen%20voor%20je%3F%0A%0ATot%20snel%2C%0A%0A%7BNaam%7D)
+  [Plan een bakkie met Jeppe](mailto\:trouwen@broekerhuis.nl?subject=We%20hebben%20je%20hulp%20nodig\&body=Hi%20Jeppe%2C%0A%0AWe%20zijn%20benieuwd%20of%20Het%20Broeker%20Huis%20d%C3%A9%20locatie%20is%20die%20bij%20mij%2Fons%20past%20om%20op%20of%20rond%20%7Bdatum%7D%20een%20%7Bzeg%20't%20maar!%7D%20te%20vieren.%20%0A%0AEen%20site%20is%20leuk%2C%20maar%20een%20locatie%20moet%20gevoeld%20worden.%20%0A%0AOp%20%7Bdatum%2C%20tijd%7D%20en%20%7Bdatum%2C%20tijd%7D%20of%20%7Bdatum%2C%20tijd%7D%20past%20ons%20goed.%0A%0AZit%20daar%20iets%20tussen%20voor%20je%3F%0A%0ATot%20snel%2C%0A%0A%7BNaam%7D)
   :::
 
 #image
