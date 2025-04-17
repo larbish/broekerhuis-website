@@ -83,7 +83,7 @@ Liever alles geregeld? Tuurlijk. Terwijl jij een dorpswandeling maakt of bijkomt
 
 Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste dromen je eigen menu – altijd ambachtelijk, nooit moeilijk. Onze bediening weet wanneer ze stil moeten zijn, en wanneer het tijd is voor Broeker gezelligheid. Van fotograaf tot DJ, styling tot nanny – en alles wat je nooit wist dat je was vergeten.
 
-*Kijken hoe het voelt en met eigen ogen zien wat kan?*
+*Kijken of het net zo goed voelt als het eruit ziet?*
 
 #footer
   :::cta-button{arrow="true"}
@@ -122,8 +122,6 @@ titleComponent: h2
 **Geen standaardfeesten – dus geen standaardprijzen.** Niet in **Het Broeker Huis.**
 
 **Toosten, trouwen of je verjaardag vieren**: je wilt weten waar je aan toe bent. Snappen we. Daarom sturen we je graag een **snelle, vrijblijvende prijsindicatie**. Gebaseerd op je plannen, het aantal feestvierders en de ruimte(s) die je nodig hebt.Zonder opdringerig belletje of offerteverplichtingen. Gewoon een helder beginpunt.
-
-Laat het plannen beginnen.
 
 #image
 ![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/20250310_BROEKERHUIS_REGENTESSENKAMER_073.JPG)
