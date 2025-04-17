@@ -30,6 +30,7 @@ const { titleComponent = 'h1', taglineComponent = 'h2' } = defineProps<BaseProps
   z-index: 2;
   display: grid;
   grid-template-columns: subgrid;
+  grid-template-rows: auto;
   grid-column: 2 / -2;
   text-align: center;
   gap: 1.5rem;
