@@ -28,6 +28,18 @@ tagline: Vlakbij Amsterdam, midden in het groen - waar eten verbindt, stilte
 title: Het Broeker Huis
 titleComponent: h1
 ---
+Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Broek in Waterland, ligt **Het Broeker Huis** – sinds 1775 dé plek waar mensen samenkomen.
+
+**Broek in Waterland** is geen decor. Geen film, geen toneelstuk. Het is een écht verhaal – en wordt nog steeds verteld. Als dorpshuis, **restaurant en vergader- en evenementenlocatie** is Het Broeker Huis de hoofdrolspeler in dit levend sprookje.
+
+**Wandel, verdwaal, onthaast, kom thui**s – Het Broeker Huis vertelt de rest.
+
+:br
+
+ 
+
+*Lees meer over Het Broeker Huis en zijn hoeders.*
+
 #footer
   :::cta-button{arrow}
   [Achter de gevel](/het-broeker-huis)
@@ -61,6 +73,18 @@ taglineComponent: h3
 title: Feestlocatie en trouwlocatie in Broek in Waterland
 titleComponent: h2
 ---
+Of je nu ‘ja’ zegt, 21 wordt of 70 — sommige dagen verdienen een plek die klopt.
+
+Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een binnenplaats,** een houten vloer met krassen en **verhalen in de muren**.
+
+**Het Broeker Huis** is een plek om **groots te vieren**, zonder dik te hoeven te doen. Hoe je het ook viert – het is helemaal **jouw feestje**.
+
+:br
+
+ 
+
+*Lees meer over trouwen en vieren in Het Broeker Huis.*
+
 #footer
   :::cta-button{arrow="true"}
   [Jouw dag, jouw plek](/Trouwen%20&%20Feesten)
@@ -79,9 +103,19 @@ tagline: Vuurwerk. Bijna open.
 taglineComponent: h3
 title: Restaurant in Broek in Waterland
 ---
+**Wat kun je straks verwachten?** In **Restaurant De Broeker Huiskamer** eet je van houtvuur, in het seizoen en puur zonder fratsen. Samen, alleen, met kids of in stilte – wat je ook eet, **elk bord schreeuwt smaak.**
+
+Wandel tot die tijd vooral binnen voor een kop koffie, een broodje of een stuk taart.
+
+:br
+
+ 
+
+*Benieuwd welke Broeker topchef er straks boven het vuur staat?*
+
 #footer
   :::cta-button{arrow="true"}
-  [Proef alvast sfeer](/restaurant)
+  [Proef alvast sfeer](/Restaurant)
   :::
 
 #image
@@ -97,6 +131,16 @@ title: Restaurant in Broek in Waterland
 tagline: Zelfs PowerPoint krijgt lucht.
 title: Vergaderen & workshops in Broek in Waterland
 ---
+**Vlakbij Amsterdam**, tussen weiland en werkdruk, vind je onze **karaktervolle vergaderruimtes** – in een rijksmonument dat rust ademt, ruimte geeft en waar brainstormen écht iets oplevert.
+
+**Vergaderen, trainen of creëren** op een plek die nooit voelt als werk. **Dichtbij de stad,** ver van hectiek, snel tot de kern.
+
+:br
+
+ 
+
+*Benieuwd wat je hier kunt organiseren?*
+
 #footer
   :::cta-button{arrow="true"}
   [Vliegensvlug een offerte](https://forms.gle/3NXfextmA5VMUjbo6)
@@ -113,6 +157,14 @@ tagline: Dromers, nog even wakker blijven.
 taglineComponent: h3
 title: Overnachten in Broek in Waterland
 ---
+Vanaf **zomer 2025 slaap** je bij ons in stijl en word je wakker in het sprookje. Een **persoonlijke B\&B** met karakter, midden in **het mooiste dorp van Nederland** – vlakbij Amsterdam.
+
+:br
+
+ 
+
+*Als eerste weten wanneer je kunt boeken?*
+
 #footer
   :::cta-button{arrow="true"}
   [We mailen je](https://forms.gle/7cJ2YcZefs9f5PJu5)
