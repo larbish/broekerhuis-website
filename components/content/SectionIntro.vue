@@ -26,16 +26,15 @@ const { titleComponent = 'h1', taglineComponent = 'h2' } = defineProps<BaseProps
 
 <style scoped>
 .intro {
+  display: grid;
   position: relative;
   z-index: 2;
-  display: grid;
-  grid-template-columns: subgrid;
-  grid-template-rows: auto;
   grid-column: 2 / -2;
   text-align: center;
   gap: 1.5rem;
 
   @media (width > 1024px) {
+    grid-template-columns: subgrid;
     grid-column: 8 / span 10;
   }
 
