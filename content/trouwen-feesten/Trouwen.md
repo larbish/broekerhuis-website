@@ -38,10 +38,9 @@ Wat je ook viert, ons Huis is van jou.
 *Wip vooral even binnen*
 
 #footer
-    :::cta-button{arrow="true"}
-<a href="https://maps.app.goo.gl/tmLbzzFtMY7yYMLC8" target="_blank" rel="noopener noreferrer">
-  Hier vind je ons
-</a>
+  :::cta-button{arrow="true"}
+  [Hier vind je ons](https://maps.app.goo.gl/tmLbzzFtMY7yYMLC8){rel="noopener,noreferrer"}
+  :::
 ::
 
 ::section-full-image{background="true" background-position="bottom"}
