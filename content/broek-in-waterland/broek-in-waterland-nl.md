@@ -1,8 +1,8 @@
 ---
-title: De beste dingen om te doen net buiten Amsterdam
+title: Een dag naar Broek in Waterland
 description: Laat Volendam en de Zaanse Schans lekker links liggen — en kom naar Broek in Waterland
 navigation:
-  title: Broek in Waterland
+  title: Een dag naar Broek in Waterland
   displayInTopNav: true
   topNavOrder: 20
   description: null
@@ -13,14 +13,9 @@ seo:
 
 ::hero-header
 ---
-span: Just 15 minutes from Amsterdam. And a whole world away. No crowds. No
-  plastic clogs. No waiting in line for a pancake you’ll regret. Just still
-  water, crooked chimneys, and the sound of your own breath slowing
-  down.  Welcome to Broek in Waterland — the best-kept secret north of
-  Amsterdam. Postcard-pretty. Quietly iconic. And yes, it’s real.
 tagline: Laat Volendam en de Zaanse Schans lekker links liggen — en kom naar Broek in Waterland
 taglineComponent: h2
-title: De beste dingen om te doen net buiten Amsterdam
+title: Een dag naar Broek in Waterland
 titleComponent: h1
 ---
 #image
@@ -34,9 +29,10 @@ tagline: Broek in Waterland is precies dat.
 taglineComponent: h3
 title: Op zoek naar iets anders dan drukte?
 ---
-Wat je hier vindt: Rust. Mooie wandelroutes. Fietspaden zonder racefietsstress. Goede koffie. Nog betere stilte. En dat allemaal op 15 minuten van Amsterdam. Broek in Waterland - het mooiste dorp van Nederland.
+Broek in Waterland ligt vlakbij Amsterdam, een kwartiertje m,et de bus, maar voelt als een andere tijdzone. Een dorp van houten huizen, water dat niet haast, en bruggen waar je vanzelf wat langzamer overheen loopt.
 
-Geen ‘experience’. Geen routekaartjes met stickers. Geen gids met microfoon. Geen klederdracht aan en op de foto met Jan Smit. Geen massatoerisme. Wel: water, ruimte, stilte — en een plek waar je zomaar langer blijft dan gepland.
+Geen gids. Geen wachtrijen. Geen klompenwinkels. Geen ‘experience’. Geen routekaartjes met stickers. Geen gids met microfoon. Geen klederdracht aan en op de foto met Jan Smit. 
+Frisse lucht, stille paadjes, en koffie aan op het bankje bij het Havenrak, waar de tijd heeft stilgestaan. Broek in Waterland - het mooiste dorp van Nederland.
 
 Broek in Waterland ligt een kwartiertje boven Amsterdam. Een dorp van houten huizen, scheve schoorstenen en flarden gesprek op de stoep. Waar je je jas nog aan de kapstok hangt, de achterdeur open laat en de tijd wat minder strak staat.
 
