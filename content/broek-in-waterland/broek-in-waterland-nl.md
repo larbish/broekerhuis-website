@@ -3,7 +3,7 @@ title: Een dag naar Broek in Waterland
 description: Laat Volendam en de Zaanse Schans lekker links liggen — en kom naar Broek in Waterland
 navigation:
   title: Een dag naar Broek in Waterland
-  displayInTopNav: true
+  displayInTopNav: 
   topNavOrder: 20
   description: null
 seo:
