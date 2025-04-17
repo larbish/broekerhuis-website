@@ -87,7 +87,7 @@ Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een
 
 #footer
   :::cta-button{arrow="true"}
-  [Jouw dag, jouw plek](/Trouwen%20&%20Feesten)
+  [Jouw dag, jouw plek](/trouwen-feesten)
   :::
 
 #image
