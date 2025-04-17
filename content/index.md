@@ -143,7 +143,7 @@ title: Vergaderen & workshops in Broek in Waterland
 
 #footer
   :::cta-button{arrow="true"}
-  [Vliegensvlug een offerte](https://forms.gle/3NXfextmA5VMUjbo6)
+  [Bekijk de mogelijkheden](/zakelijk)
   :::
 
 #image
@@ -157,17 +157,17 @@ tagline: Dromers, nog even wakker blijven.
 taglineComponent: h3
 title: Overnachten in Broek in Waterland
 ---
-Vanaf **zomer 2025 slaap** je bij ons in stijl en word je wakker in het sprookje. Een **persoonlijke B\&B** met karakter, midden in **het mooiste dorp van Nederland** – vlakbij Amsterdam.
+Vanaf **zomer 2025 slaap** je bij ons in stijl en word je wakker in het sprookje. Een **persoonlijke B\&B** voor 1 tot 6 personen met karakter, midden in **het mooiste dorp van Nederland** – vlakbij Amsterdam.
 
 :br
 
  
 
-*Als eerste weten wanneer je kunt boeken?*
+*Alvast dagdromen?*
 
 #footer
   :::cta-button{arrow="true"}
-  [We mailen je](https://forms.gle/7cJ2YcZefs9f5PJu5)
+  [Lees meer](/overnachten)
   :::
 
 #image
