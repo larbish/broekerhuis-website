@@ -68,7 +68,12 @@ const mobileMenu = ref(false);
   left: 0;
   right: 0;
   grid-column: 1 / -1;
-  padding: 1.5rem 0;
+  padding: 0.625rem 0;
+
+  @media (width > 768px) {
+    padding: 1.5rem 0;
+    ;
+  }
 
   &:before {
     display: block;
