@@ -58,7 +58,7 @@ Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenp
 
 **Binnenplaats (240 m²)** – ons pièce de résistance. Trouw onder de bomen, borrel aan lange tafels in de zon, of toost bij kaarslicht. Van twintig gasten aan tafel tot tweehonderd op de dansvloer – bij ons past het.
 
-*Snel checken wat waar past en hoe?*
+*Snel checken waar jouw idee het beste past?*
 
 #image
 ![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/BROEKERHUIS_COLLAGES_3x4_v1_SPACED.png)
@@ -91,7 +91,7 @@ Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste 
   :::
 
 #image
-![HBH\_COLL\_3X4\_ALLESKANZELFSNIKS\_.png](/20250331_BROEKERHUIS_1617.JPG)
+![HBH\_COLL\_3X4\_ALLESKANZELFSNIKS\_.png](/20250331_BROEKERHUIS_1815.JPG)
 ::
 
 ::section-visual-transition
