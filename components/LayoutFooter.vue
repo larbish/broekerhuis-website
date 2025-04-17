@@ -39,7 +39,7 @@
         <h4 class="footer__title">Snel naar</h4>
         <ul>
           <li class="footer__item"><nuxt-link class="footer__link" to="/restaurant">Restaurant</nuxt-link></li>
-          <li class="footer__item"><nuxt-link class="footer__link" to="/trouwen-and-feesten/trouwen">Trouwen &
+          <li class="footer__item"><nuxt-link class="footer__link" to="/trouwen-feesten/trouwen">Trouwen &
               Feesten</nuxt-link></li>
           <li class="footer__item"><nuxt-link class="footer__link" to="/zakelijk">Zakelijk</nuxt-link></li>
           <li class="footer__item"><nuxt-link class="footer__link" to="/het-broeker-huis">Over ons</nuxt-link></li>
@@ -52,10 +52,9 @@
       <div class="footer__column">
         <h4 class="footer__title">Ook handig</h4>
         <ul>
-          <li class="footer__item"><a class="footer__link" href="mailto:contact@broekerhuis.nl">Mail ons</a></li>
-          <li class="footer__item"><nuxt-link class="footer__link" to="/het-broeker-huis">Parkeren in broek in
+          <li class="footer__item"><nuxt-link class="footer__link" to="/contact-parkeren">Parkeren in broek in
               Waterland</nuxt-link></li>
-          <li class="footer__item"><nuxt-link class="footer__link" to="/het-broeker-huis">Toegankelijkheid</nuxt-link>
+          <li class="footer__item"><nuxt-link class="footer__link" to="/contact-parkeren">Toegankelijkheid</nuxt-link>
           </li>
         </ul>
       </div>
