@@ -1,19 +1,22 @@
 ---
 title: Een dag naar Broek in Waterland
-description: Laat Volendam en de Zaanse Schans lekker links liggen — en kom naar Broek in Waterland
+description: Laat Volendam en de Zaanse Schans lekker links liggen — en kom naar
+  Broek in Waterland
 navigation:
   title: Een dag naar Broek in Waterland
-  displayInTopNav: 
+  displayInTopNav: null
   topNavOrder: 20
   description: null
 seo:
   title: De beste dingen om te doen net buiten Amsterdam
-  description: Laat Volendam en de Zaanse Schans lekker links liggen — en kom naar Broek in Waterland
+  description: Laat Volendam en de Zaanse Schans lekker links liggen — en kom naar
+    Broek in Waterland
 ---
 
 ::hero-header
 ---
-tagline: Laat Volendam en de Zaanse Schans lekker links liggen — en kom naar Broek in Waterland
+tagline: Laat Volendam en de Zaanse Schans lekker links liggen — en kom naar
+  Broek in Waterland
 taglineComponent: h2
 title: Een dag naar Broek in Waterland
 titleComponent: h1
@@ -31,7 +34,7 @@ title: Op zoek naar iets anders dan drukte?
 ---
 Broek in Waterland ligt vlakbij Amsterdam, een kwartiertje m,et de bus, maar voelt als een andere tijdzone. Een dorp van houten huizen, water dat niet haast, en bruggen waar je vanzelf wat langzamer overheen loopt.
 
-Geen gids. Geen wachtrijen. Geen klompenwinkels. Geen ‘experience’. Geen routekaartjes met stickers. Geen gids met microfoon. Geen klederdracht aan en op de foto met Jan Smit. 
+Geen gids. Geen wachtrijen. Geen klompenwinkels. Geen ‘experience’. Geen routekaartjes met stickers. Geen gids met microfoon. Geen klederdracht aan en op de foto met Jan Smit.
 Frisse lucht, stille paadjes, en koffie aan op het bankje bij het Havenrak, waar de tijd heeft stilgestaan. Broek in Waterland - het mooiste dorp van Nederland.
 
 Broek in Waterland ligt een kwartiertje boven Amsterdam. Een dorp van houten huizen, scheve schoorstenen en flarden gesprek op de stoep. Waar je je jas nog aan de kapstok hangt, de achterdeur open laat en de tijd wat minder strak staat.
@@ -52,7 +55,7 @@ Voor wie echt even weg wil — zonder ver te hoeven reizen. Gewoon een dorp dat 
 ---
 background: "true"
 backgroundPosition: full
-tagline: "(En nergens anders zo)"
+tagline: (En nergens anders zo)
 taglineComponent: h3
 title: Vier dingen die je vandaag nog kunt doen in Broek in Waterland
 titleComponent: h2
@@ -73,9 +76,9 @@ Dorpshuiskamer, eetcafé, toevluchtsoord. Je vindt het direct achter de kerk.
 **4. Doe helemaal niets**  
 
 Serieus. Gewoon even niks. Ga op een bankje zitten. Kijk naar de eenden. Of de lucht. Bezoek het kleinste winkeltje van Nederland. Of niet.
-Er gebeurt niet veel in Broek — en dat is precies waarom je komt. En eigenlijk nooit meer weg wil. Gelukkig hoeft dat ook (bijna) niet meer 
+Er gebeurt niet veel in Broek — en dat is precies waarom je komt. En eigenlijk nooit meer weg wil. Gelukkig hoeft dat ook (bijna) niet meer
 
-*Onze B&B opent deze zomer.*
+*Onze B\&B opent deze zomer.*
 
 #image
 ![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/20250331_BROEKERHUIS_1492.JPG)
