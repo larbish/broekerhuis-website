@@ -32,3 +32,7 @@ Hoe je ook komt - wandel voorbij het pannenkoekenhuis via het Havenrak langs het
 #image
 ![250418\_Map HBH.jpg](/250418_Map%20HBH.jpg)
 ::
+
+::section-full-image
+![250418_Map HBH.jpg](/250418_Map%20HBH.jpg)
+::
