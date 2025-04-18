@@ -22,6 +22,8 @@ Met de auto kan natuurlijk ook - parkeer dan op de centrale parkeerplaats op het
 
 Hoe je ook komt - wandel voorbij het pannenkoekenhuis via het Havenrak langs het huis van de eendjes, doe een half rondje om de kerk en vergaap je de laatste 100 meter naar **Het Broeker Huis** aan het oudste stukje **Broek in Waterland - het mooiste dorp van Nederland.**
 
+*Mindervaliden zijn natuurlijk net zo welkom als ieder ander. Je kunt bij ons ook met een rolstoel naar de WC.*
+
 #footer
   :::cta-button{arrow="true"}
   [Terug naar Home](/)
