@@ -16,8 +16,8 @@ seo:
 
 ::hero-header
 ---
-tagline: Monumentaal vieren, vlakbij Amsterdam
-title: Trouw, feest, proost en zwaai uit
+tagline: Monumentaal vieren - vlakbij Amsterdam.
+title: Trouw, feest, proost, zwaai uit
 ---
 #image
 ![2016-05-06-Sarah-Thomas-163.jpg](/2016-05-06-Sarah-Thomas-163.jpg)
