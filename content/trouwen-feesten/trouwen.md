@@ -34,60 +34,60 @@ In **Het Broeker Huis** – dé trouw- en feestlocatie van het mooiste dorp van 
 Wat je ook viert, ons Huis is van jou.
 
 **Van toosten tot tranen – en alles ertussen.**
-::
 
-::section-full-image{background="true" background-position="bottom"}
-![2016-05-06-Sarah-Thomas-307.jpg](/466686941_10230167123299992_4849252139870361658_n.JPG)
-::
-
-::section-two-columns
----
-background: "true"
-backgroundPosition: full
-tagline: Elke zaal een verhaal.
-title: Onze trouw- en feestzalen
-titleComponent: h2
----
-Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenplaats** en een gigantische, **sprookjesachtige tuin: Broek in Waterland**. Elke zaal heeft zijn eigen sfeer, allemaal flexibel in te delen en te combineren – voor bruiloften, feesten, diners of afscheidsceremonies.
-
-**Grote Zaal (90 m²)** – ruim, klassiek en perfect voor diners, bruiloften, recepties of dansfeesten
-
-**Regentessenkamer (30 m²)** – intiem, stijlvol en ideaal voor private dining, huwelijksvoltrekking of familieceremonies.
-
-**Trouwzaal (60 m²)** – licht en open, vaak gebruikt als trouwzaal, kinderhoek of buffetruimte.
-
-**Binnenplaats (240 m²)** – ons pièce de résistance. Trouw onder de bomen, borrel aan lange tafels in de zon, of toost bij kaarslicht. Van twintig gasten aan tafel tot tweehonderd op de dansvloer – bij ons past het.
-
-*Snel checken waar jouw idee het beste past?*
-
-#image
-![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/BROEKERHUIS_COLLAGES_3x4_v1_SPACED.png)
-
-#footer
-  :::cta-button{arrow="true"}
-  [Bel Jeppe](tel:+31204031314)
+  :::section-full-image{background="true" background-position="bottom"}
+  ![2016-05-06-Sarah-Thomas-307.jpg](/466686941_10230167123299992_4849252139870361658_n.JPG)
   :::
-::
 
-::section-two-columns
----
-reverse: true
-background: "true"
-backgroundPosition: full
-tagline: Regel of laat los.
-title: Alles kan. Zelfs niks.
----
-**Geen pakketten. Geen draaiboeken en moetjes.** Wél een plek waar **niks goed of fout is**: begin met het dessert, zing het dak eraf en eindig met je eerste dans. Laat je neef koken en je oma plaatjes draaien. Je eigen bloemen, je eigen playlist, je eigen chaos – wij vinden het prachtig.
+  :::section-two-columns
+  ---
+  background: "true"
+  backgroundPosition: full
+  tagline: Elke zaal een verhaal.
+  title: Onze trouw- en feestzalen
+  titleComponent: h2
+  ---
+  Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenplaats** en een gigantische, **sprookjesachtige tuin: Broek in Waterland**. Elke zaal heeft zijn eigen sfeer, allemaal flexibel in te delen en te combineren – voor bruiloften, feesten, diners of afscheidsceremonies.
+  
+  **Grote Zaal (90 m²)** – ruim, klassiek en perfect voor diners, bruiloften, recepties of dansfeesten
+  
+  **Regentessenkamer (30 m²)** – intiem, stijlvol en ideaal voor private dining, huwelijksvoltrekking of familieceremonies.
+  
+  **Trouwzaal (60 m²)** – licht en open, vaak gebruikt als trouwzaal, kinderhoek of buffetruimte.
+  
+  **Binnenplaats (240 m²)** – ons pièce de résistance. Trouw onder de bomen, borrel aan lange tafels in de zon, of toost bij kaarslicht. Van twintig gasten aan tafel tot tweehonderd op de dansvloer – bij ons past het.
+  
+  *Snel checken waar jouw idee het beste past?*
+  
+  #image
+  ![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/BROEKERHUIS_COLLAGES_3x4_v1_SPACED.png)
+  
+  #footer
+    ::::cta-button{arrow="true"}
+    [Bel Jeppe](tel:+31204031314)
+    ::::
+  :::
 
-Liever alles geregeld? Tuurlijk. Terwijl jij een dorpswandeling maakt of bijkomt van de speech van je dronken oom, zetten wij het buffet klaar of serveren we vijf gangen.
-
-Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste dromen je eigen menu – altijd ambachtelijk, nooit moeilijk. Onze bediening weet wanneer ze stil moeten zijn, en wanneer het tijd is voor Broeker gezelligheid. Van fotograaf tot DJ, styling tot nanny – en alles wat je nooit wist dat je was vergeten.
-
-*Kijken of het net zo goed voelt als het eruit ziet?*
-
-#footer
-  :::cta-button{arrow="true"}
-  [Plan een bakkie met Jeppe](mailto\:trouwen@broekerhuis.nl?subject=We%20hebben%20je%20hulp%20nodig\&body=Hi%20Jeppe%2C%0A%0AWe%20zijn%20benieuwd%20of%20Het%20Broeker%20Huis%20d%C3%A9%20locatie%20is%20die%20bij%20mij%2Fons%20past%20om%20op%20of%20rond%20%7Bdatum%7D%20een%20%7Bzeg%20't%20maar!%7D%20te%20vieren.%20%0A%0AEen%20site%20is%20leuk%2C%20maar%20een%20locatie%20moet%20gevoeld%20worden.%20%0A%0AOp%20%7Bdatum%2C%20tijd%7D%20en%20%7Bdatum%2C%20tijd%7D%20of%20%7Bdatum%2C%20tijd%7D%20past%20ons%20goed.%0A%0AZit%20daar%20iets%20tussen%20voor%20je%3F%0A%0ATot%20snel%2C%0A%0A%7BNaam%7D)
+  :::section-two-columns
+  ---
+  reverse: true
+  background: "true"
+  backgroundPosition: full
+  tagline: Regel of laat los.
+  title: Alles kan. Zelfs niks.
+  ---
+  **Geen pakketten. Geen draaiboeken en moetjes.** Wél een plek waar **niks goed of fout is**: begin met het dessert, zing het dak eraf en eindig met je eerste dans. Laat je neef koken en je oma plaatjes draaien. Je eigen bloemen, je eigen playlist, je eigen chaos – wij vinden het prachtig.
+  
+  Liever alles geregeld? Tuurlijk. Terwijl jij een dorpswandeling maakt of bijkomt van de speech van je dronken oom, zetten wij het buffet klaar of serveren we vijf gangen.
+  
+  Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste dromen je eigen menu – altijd ambachtelijk, nooit moeilijk. Onze bediening weet wanneer ze stil moeten zijn, en wanneer het tijd is voor Broeker gezelligheid. Van fotograaf tot DJ, styling tot nanny – en alles wat je nooit wist dat je was vergeten.
+  
+  *Checken of het net zo goed voelt als het eruit ziet?*
+  
+  #footer
+    ::::cta-button{arrow="true"}
+    [Hier vind je ons](/contact-parkeren)
+    ::::
   :::
 
 #image
@@ -128,6 +128,6 @@ titleComponent: h2
 
 #footer
   :::cta-button{arrow="true"}
-  [Vliegensvlug een prijsindicatie](https://forms.gle/VhwGZtpg4k52Kru89)
+  [Vliegensvlug een prijsindicatie](https://forms.gle/hcKaZm8pQmx9JsJr7){target="_blank"}
   :::
 ::
