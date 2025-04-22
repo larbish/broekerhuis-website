@@ -1,0 +1,1 @@
+.content,.content>div{display:grid;grid-column:1/-1;grid-template-columns:subgrid}
