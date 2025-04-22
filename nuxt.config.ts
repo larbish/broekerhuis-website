@@ -34,6 +34,11 @@ export default defineNuxtConfig({
       },
     },
   },
+  nitro: {
+    prerender: {
+      failOnError: false,
+    }
+  },
   content: {
     preview: {
       api: "https://api.nuxt.studio",
